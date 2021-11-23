@@ -1,0 +1,6 @@
+Warning message:
+In ensureInitialized() :
+  '.Random.seed[1]' is not a valid integer, so ignored
+Error in library(sunburstR) : there is no package called ‘sunburstR’
+Calls: runApp ... sourceUTF8 -> eval -> eval -> ..stacktraceon.. -> library
+Execution halted

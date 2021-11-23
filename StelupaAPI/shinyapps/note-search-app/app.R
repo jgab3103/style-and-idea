@@ -1,0 +1,124 @@
+library(DT)
+library(jsonlite)
+library(rlang)
+library(r2d3)
+library(shiny)
+library(shinyBS)
+library(shinycssloaders)
+library(shinyjqui)
+library(shinyjs)
+library(shinythemes)
+library(tidyverse)
+
+# https://stackoverflow.com/questions/49291411/search-exact-match-r-datatable
+js <- c(
+  "function(settings){",
+  "  var instance = settings.oInstance;",
+  "  var table = instance.api();",
+  "  var input = instance.parent().find('.dataTables_filter input');",
+  "  input.off('keyup search input').on('keyup', function(){",
+  "    var keyword = '\\\\b' + input.val() + '\\\\b';",
+  "    table.search(keyword, true, false).draw();",
+  "  });",
+  "}"
+)
+
+
+
+# temp data -------------------------------------------------------
+seq_data <- read_csv("./data/sequences_test.csv")
+melody_summary_data <<- read_csv("./data/work_summary_data/melody_summary_data.csv")
+harmony_summary_data <<- read_csv("./data/work_summary_data/harmony_summary_data.csv")
+instrumentation_summary_data <<- read_csv("./data/work_summary_data/instrumentation_summary_data.csv")
+
+
+
+# shared resources-------------------------------------------------
+source("./state_manager.R")
+source("./global_variables.R")
+source("./settings.R")
+
+
+# modules ------------------------------------------------------
+source("./modules/app_header_ui.R")
+source("./modules/score_detail_ui.R")
+source("./modules/score_detail_server.R")
+source("./modules/settings_filter_ui.R")
+source("./modules/common_patterns_ui.R")
+source("./modules/common_patterns_server.R")
+source("./modules/common_harmonic_patterns_ui.R")
+source("./modules/common_harmonic_patterns_server.R")
+source("./modules/specific_patterns_ui.R")
+source("./modules/specific_patterns_server.R")
+source("./modules/harmony_filter_ui.R")
+source("./modules/harmony_filter_server.R")
+source("./modules/summary_results_ui.R")
+source("./modules/summary_results_server.R")
+source("./modules/pianoroll_ui.R")
+source("./modules/pianoroll_server.R")
+
+
+
+# ui --------------------------------------------------------------
+ui <- function(request) { 
+
+  fluidPage(theme = shinytheme("paper"),
+            style = "height:200px;background-color: white;",
+    tags$head(
+      tags$link(rel = "stylesheet", 
+                type = "text/css", 
+                href = "css/style.css")),
+     includeScript(path = "./components/pianoroll/static_data.js"),
+     includeScript(path = "./components/pianoroll/test_data.js"),
+     includeScript(path = "./components/pianoroll/lodash.js"),
+ 
+    # test ------------------------
+
+    app_header_ui("app_header"),
+    fluidRow(
+      class = "cont",
+      jqui_resizable(
+        column(3,
+               class = "blah",
+               score_detail_ui("score_detail"),
+               settings_filter_ui("settings"),
+               common_patterns_ui("common_patterns"),
+               common_harmonic_patterns_ui("common_harmonic_patterns"),
+               specific_patterns_ui("specific_patterns"),
+               harmony_filter_ui("harmony_filter"))
+      ),
+      jqui_resizable(
+        column(9,
+               class = "results",
+               pianoroll_ui("pianoroll"),
+               summary_results_ui("summary_results"))
+      )
+    ))
+}
+
+
+# server --------------------------------------------------------
+server <- function(input, output, session) {
+  
+  harmony_filter_choices <- callModule(harmony_filter_server, 'harmony_filter')
+  score_filter_choices <- callModule(score_detail_server, "score_detail")
+  common_patterns_choices <- callModule(common_patterns_server, "common_patterns")
+  common_harmonic_patterns_choices <- callModule(common_harmonic_patterns_server, "common_harmonic_patterns")
+  specific_patterns_choices <- callModule(specific_patterns_server, "specific_patterns")
+  summary_results <- callModule(summary_results_server,
+                     'summary_results',
+                     dataset = mtcars,
+                     common_patterns_choices = common_patterns_choices,
+                     common_harmonic_patterns_choices = common_harmonic_patterns_choices,
+                     harmony_filter_choices = harmony_filter_choices,
+                     specific_patterns_choices = specific_patterns_choices)
+  pianoroll <- callModule(pianoroll_server,
+                          'pianoroll',
+                          score_filter_choices = score_filter_choices)
+
+  
+}
+
+enableBookmarking(store = "url")
+shinyApp(ui, server)
+

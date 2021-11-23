@@ -1,0 +1,23 @@
+{
+    "id": "51A7A994",
+    "path": "C:/JamiesFiles/DjangoProjects/StelupaProject/StelupaServer/shinyapps/note-search-app/modules/settings_filter_ui.R",
+    "project_path": "modules/settings_filter_ui.R",
+    "type": "r_source",
+    "hash": "806354665",
+    "contents": "",
+    "dirty": false,
+    "created": 1600666155548.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1580448704,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1580448704,
+    "read_only": false,
+    "read_only_alternatives": []
+}

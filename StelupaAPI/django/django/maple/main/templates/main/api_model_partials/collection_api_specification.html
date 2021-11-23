@@ -1,0 +1,45 @@
+<br/>
+<strong id="collection">Data specification::collection</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/scores-api/v1/collections/">stelupa/scores-api/v1/collections/</a>
+</div><br/>
+<div>
+  The collection API endpoint has data about works that can be grouped together in same way. An example of a collection is a symphony (e.g. Mahler's Symphony No. 4) or album (e.g. Kind of Blue) that groups a number of <a href="#">works</a> together. Attributes include:
+</div>
+<div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>title</td>
+    <td>varchar</td>
+    <td>Name of the collection.</td>
+  </tr>
+  <tr>
+    <td>title_in_original_language</td>
+    <td>varchar</td>
+    <td>Name of the collection in language used by the composer, if applicable.</td>
+  </tr>
+  <tr>
+    <td>collection_notes</td>
+    <td>text</td>
+    <td>Descriptive notes about the collection (these can include album liner notes, or performance notes provided by the composer that apply to the collection).</td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if this record has been verified.</td>
+  </tr>
+  </tbody>
+  </table>
+</div>
+
+<br/>

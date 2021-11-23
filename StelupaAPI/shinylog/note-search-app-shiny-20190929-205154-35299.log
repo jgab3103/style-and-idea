@@ -1,0 +1,52 @@
+Warning message:
+In ensureInitialized() :
+  '.Random.seed[1]' is not a valid integer, so ignored
+
+Attaching package: ‘jsonlite’
+
+The following object is masked from ‘package:shiny’:
+
+    validate
+
+── Attaching packages ─────────────────────────────────────── tidyverse 1.2.1 ──
+✔ ggplot2 3.2.1     ✔ purrr   0.3.2
+✔ tibble  2.1.3     ✔ dplyr   0.8.3
+✔ tidyr   1.0.0     ✔ stringr 1.3.1
+✔ readr   1.3.1     ✔ forcats 0.4.0
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter()      masks stats::filter()
+✖ purrr::flatten()     masks jsonlite::flatten()
+✖ dplyr::lag()         masks stats::lag()
+✖ jsonlite::validate() masks shiny::validate()
+
+Attaching package: ‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+
+Attaching package: ‘DT’
+
+The following objects are masked from ‘package:shiny’:
+
+    dataTableOutput, renderDataTable
+
+
+Listening on http://127.0.0.1:35299
+Warning in file(con, "rb") :
+  cannot open file '/srv/shiny-server/note-search-app/www/brand.mp3': Device or resource busy
+Warning: Error in file: cannot open the connection
+  [No stack trace available]
+Warning in file(con, "rb") :
+  cannot open file '/srv/shiny-server/note-search-app/www/brand.mp3': Device or resource busy
+Warning: Error in file: cannot open the connection
+  [No stack trace available]
+Warning in file(con, "rb") :
+  cannot open file '/srv/shiny-server/note-search-app/www/brand.mp3': Device or resource busy
+Warning: Error in file: cannot open the connection
+  [No stack trace available]

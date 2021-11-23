@@ -1,0 +1,103 @@
+Warning message:
+In ensureInitialized() :
+  '.Random.seed[1]' is not a valid integer, so ignored
+
+Attaching package: ‘jsonlite’
+
+The following object is masked from ‘package:shiny’:
+
+    validate
+
+── Attaching packages ─────────────────────────────────────── tidyverse 1.2.1 ──
+✔ ggplot2 3.2.1     ✔ purrr   0.3.2
+✔ tibble  2.1.3     ✔ dplyr   0.8.3
+✔ tidyr   1.0.0     ✔ stringr 1.3.1
+✔ readr   1.3.1     ✔ forcats 0.4.0
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter()      masks stats::filter()
+✖ purrr::flatten()     masks jsonlite::flatten()
+✖ dplyr::lag()         masks stats::lag()
+✖ jsonlite::validate() masks shiny::validate()
+Parsed with column specification:
+cols(
+  part_id = col_character(),
+  part_as_number = col_double(),
+  divisions = col_double(),
+  current_beats = col_double(),
+  current_beats_type = col_double(),
+  current_measure = col_double(),
+  voice = col_double(),
+  midi_number = col_double(),
+  note_name = col_character(),
+  duration = col_character(),
+  converted_duration = col_double(),
+  is_rest = col_character(),
+  grace = col_character(),
+  chord = col_character(),
+  starting_location_of_current_measure = col_double(),
+  starting_point_of_note_event = col_double(),
+  starting_location = col_double()
+)
+Parsed with column specification:
+cols(
+  part_id = col_character(),
+  part_as_number = col_double(),
+  divisions = col_double(),
+  current_beats = col_double(),
+  current_beats_type = col_double(),
+  current_measure = col_double(),
+  voice = col_double(),
+  midi_number = col_double(),
+  note_name = col_character(),
+  duration = col_double(),
+  converted_duration = col_double(),
+  is_rest = col_character(),
+  grace = col_character(),
+  chord = col_character(),
+  starting_location_of_current_measure = col_double(),
+  starting_point_of_note_event = col_double(),
+  starting_location = col_double()
+)
+Parsed with column specification:
+cols(
+  part_id = col_character(),
+  part_as_number = col_double(),
+  divisions = col_double(),
+  current_beats = col_double(),
+  current_beats_type = col_double(),
+  current_measure = col_double(),
+  voice = col_double(),
+  midi_number = col_double(),
+  note_name = col_character(),
+  duration = col_character(),
+  converted_duration = col_double(),
+  is_rest = col_character(),
+  grace = col_character(),
+  chord = col_character(),
+  starting_location_of_current_measure = col_double(),
+  starting_point_of_note_event = col_double(),
+  starting_location = col_double()
+)
+Parsed with column specification:
+cols(
+  work = col_double(),
+  instrument = col_double(),
+  has_instrumentation = col_double(),
+  divisions = col_double(),
+  time_signature_numerator = col_double(),
+  time_signature_denominator = col_double(),
+  current_measure = col_double(),
+  midi_number = col_double(),
+  note_name = col_character(),
+  duration = col_double(),
+  is_rest = col_double(),
+  is_grace_note = col_double(),
+  starting_location = col_double(),
+  starting_location_of_current_measure = col_double(),
+  quarter_beats_per_minute = col_double(),
+  tie_status = col_character(),
+  verified = col_double()
+)
+Error in state_manager_get_musicians() : object 'g_musicians' not found
+Calls: runApp ... withVisible -> eval -> eval -> state_manager_get_musicians
+Execution halted

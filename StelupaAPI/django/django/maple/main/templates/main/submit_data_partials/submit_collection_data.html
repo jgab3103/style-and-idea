@@ -1,0 +1,64 @@
+{% extends "main/submit_data_partials/submit_data_base.html" %}
+{% load static %}
+
+{% block submit_data_filter %}
+  {% include "main/submit_data_partials/submit_data_filter.html" %}
+{% endblock %}
+  {% block submit_collection_data %}
+
+  {% include "main/submit_data_partials/submit_data_paginator.html" %}
+  <ul class="collapsible" data-collapsible="accordion">
+    {% for record in paginated_records %}
+      <li>
+        <div class="collapsible-header">
+          <div class = "col s6 m6">
+              {{ record.title }} <br/>
+              {{ record.title_in_original_language}}
+
+            </div>
+            <div class = "col s6 m6">
+                Composed by {{ record.created_by.first_name}} {{ record.created_by.last_name}}
+
+
+                </div>
+
+        </div>
+        <div class="collapsible-body">
+          <div class = "row">
+            <div class = "col s12 m12">
+              <strong class="thin">Record detail:</strong> <br/>
+
+            </div>
+
+          </div>
+          <div class = "row">
+            <div class = "col s3 m3">
+              <strong class="thin">Record title:</strong> <br/>
+
+            </div>
+            <div class = "col s9 m9">
+              <strong class="thin">{{ record.title}}</strong> <br/>
+
+            </div>
+
+          </div>
+          <div class = "row">
+            <div class = "col s12 m12">
+              <strong>Collection notes</strong> <br/>
+
+            </div>
+
+          </div>
+          <div class = "row">
+            <div class = "col s12 m12">
+              {{ record.collection_notes}}
+            </div>
+
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  {% endblock %}

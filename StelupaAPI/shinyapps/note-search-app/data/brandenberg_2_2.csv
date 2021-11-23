@@ -1,0 +1,1163 @@
+part_id,part_as_number,divisions,current_beats,current_beats_type,current_measure,voice,midi_number,note_name,duration,converted_duration,is_rest,grace,chord,starting_location_of_current_measure,starting_point_of_note_event,starting_location
+P1,1,4,3,4,2,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,12,0,12
+P1,1,4,3,4,3,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,24,0,24
+P1,1,4,3,4,4,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,36,0,36
+P1,1,4,3,4,5,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,48,0,48
+P1,1,4,3,4,5,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,48,4,52
+P1,1,4,3,4,5,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,48,8,56
+P1,1,4,3,4,6,1,70,A#/Bb5,6,6,Not applicable,Not applicable,Not applicable,60,0,60
+P1,1,4,3,4,6,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,60,6,66
+P1,1,4,3,4,6,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,60,8,68
+P1,1,4,3,4,6,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,60,9,69
+P1,1,4,3,4,6,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,60,10,70
+P1,1,4,3,4,7,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,72,0,72
+P1,1,4,3,4,7,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,72,4,76
+P1,1,4,3,4,7,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,72,6,78
+P1,1,4,3,4,7,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,72,8,80
+P1,1,4,3,4,8,1,71,B5,6,6,Not applicable,Not applicable,Not applicable,84,0,84
+P1,1,4,3,4,8,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,84,6,90
+P1,1,4,3,4,8,1,74,D6,1,1,Not applicable,Not applicable,Not applicable,84,7,91
+P1,1,4,3,4,8,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,84,8,92
+P1,1,4,3,4,8,1,71,B5,1,1,Not applicable,Not applicable,Not applicable,84,9,93
+P1,1,4,3,4,8,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,84,10,94
+P1,1,4,3,4,9,1,68,G#/Ab5,4,4,Not applicable,Not applicable,Not applicable,96,0,96
+P1,1,4,3,4,9,1,66,F#/Gb5,2,2,Not applicable,Not applicable,Not applicable,96,4,100
+P1,1,4,3,4,9,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,96,6,102
+P1,1,4,3,4,9,1,72,C6,4,4,Not applicable,Not applicable,Not applicable,96,8,104
+P1,1,4,3,4,10,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,108,0,108
+P1,1,4,3,4,10,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,108,2,110
+P1,1,4,3,4,10,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,108,4,112
+P1,1,4,3,4,10,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,108,8,116
+P1,1,4,3,4,10,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,108,10,118
+P1,1,4,3,4,10,1,74,D6,1,1,Not applicable,Not applicable,Not applicable,108,11,119
+P1,1,4,3,4,11,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,120,0,120
+P1,1,4,3,4,11,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,120,2,122
+P1,1,4,3,4,11,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,120,4,124
+P1,1,4,3,4,11,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,120,8,128
+P1,1,4,3,4,12,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,132,0,132
+P1,1,4,3,4,12,1,68,G#/Ab5,2,2,Not applicable,Not applicable,Not applicable,132,2,134
+P1,1,4,3,4,12,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,132,4,136
+P1,1,4,3,4,12,1,68,G#/Ab5,4,4,Not applicable,Not applicable,Not applicable,132,8,140
+P1,1,4,3,4,13,1,68,G#/Ab5,2,2,Not applicable,Not applicable,Not applicable,144,0,144
+P1,1,4,3,4,13,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,144,2,146
+P1,1,4,3,4,13,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,144,4,148
+P1,1,4,3,4,13,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,144,8,152
+P1,1,4,3,4,14,1,69,A5,6,6,Not applicable,Not applicable,Not applicable,156,0,156
+P1,1,4,3,4,14,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,156,6,162
+P1,1,4,3,4,14,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,156,8,164
+P1,1,4,3,4,14,1,69,A5,1,1,Not applicable,Not applicable,Not applicable,156,9,165
+P1,1,4,3,4,14,1,68,G#/Ab5,2,2,Not applicable,Not applicable,Not applicable,156,10,166
+P1,1,4,3,4,15,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,168,0,168
+P1,1,4,3,4,15,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,168,4,172
+P1,1,4,3,4,15,1,72,C6,4,4,Not applicable,Not applicable,Not applicable,168,8,176
+P1,1,4,3,4,16,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,180,0,180
+P1,1,4,3,4,16,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,180,2,182
+P1,1,4,3,4,16,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,180,4,184
+P1,1,4,3,4,16,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,180,8,188
+P1,1,4,3,4,16,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,180,10,190
+P1,1,4,3,4,16,1,74,D6,1,1,Not applicable,Not applicable,Not applicable,180,11,191
+P1,1,4,3,4,17,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,192,0,192
+P1,1,4,3,4,17,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,192,2,194
+P1,1,4,3,4,17,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,192,4,196
+P1,1,4,3,4,17,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,192,8,200
+P1,1,4,3,4,18,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,204,0,204
+P1,1,4,3,4,18,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,204,2,206
+P1,1,4,3,4,18,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,204,4,208
+P1,1,4,3,4,18,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,204,8,212
+P1,1,4,3,4,18,1,69,A5,1,1,Not applicable,Not applicable,Not applicable,204,10,214
+P1,1,4,3,4,18,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,204,11,215
+P1,1,4,3,4,19,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,216,0,216
+P1,1,4,3,4,19,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,216,2,218
+P1,1,4,3,4,19,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,216,4,220
+P1,1,4,3,4,19,1,72,C6,4,4,Not applicable,Not applicable,Not applicable,216,8,224
+P1,1,4,3,4,20,1,74,D6,6,6,Not applicable,Not applicable,Not applicable,228,0,228
+P1,1,4,3,4,20,1,76,E6,1,1,Not applicable,Not applicable,Not applicable,228,6,234
+P1,1,4,3,4,20,1,77,F6,1,1,Not applicable,Not applicable,Not applicable,228,7,235
+P1,1,4,3,4,20,1,76,E6,1,1,Not applicable,Not applicable,Not applicable,228,8,236
+P1,1,4,3,4,20,1,79,G6,1,1,Not applicable,Not applicable,Not applicable,228,9,237
+P1,1,4,3,4,20,1,77,F6,2,2,Not applicable,Not applicable,Not applicable,228,10,238
+P1,1,4,3,4,21,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,240,0,240
+P1,1,4,3,4,21,1,76,E6,2,2,Not applicable,Not applicable,Not applicable,240,4,244
+P1,1,4,3,4,21,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,240,6,246
+P1,1,4,3,4,21,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,240,8,248
+P1,1,4,3,4,21,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,240,10,250
+P1,1,4,3,4,22,1,79,G6,4,4,Not applicable,Not applicable,Not applicable,252,0,252
+P1,1,4,3,4,22,1,77,F6,2,2,Not applicable,Not applicable,Not applicable,252,4,256
+P1,1,4,3,4,22,1,76,E6,2,2,Not applicable,Not applicable,Not applicable,252,6,258
+P1,1,4,3,4,22,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,252,8,260
+P1,1,4,3,4,22,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,252,10,262
+P1,1,4,3,4,23,1,72,C6,4,4,Not applicable,Not applicable,Not applicable,264,0,264
+P1,1,4,3,4,23,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,264,4,268
+P1,1,4,3,4,23,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,264,8,272
+P1,1,4,3,4,24,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,276,0,276
+P1,1,4,3,4,25,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,288,0,288
+P1,1,4,3,4,25,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,288,4,292
+P1,1,4,3,4,25,1,74,D6,4,4,Not applicable,Not applicable,Not applicable,288,8,296
+P1,1,4,3,4,26,1,75,D#/Eb6,6,6,Not applicable,Not applicable,Not applicable,300,0,300
+P1,1,4,3,4,26,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,300,6,306
+P1,1,4,3,4,26,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,300,8,308
+P1,1,4,3,4,26,1,75,D#/Eb6,1,1,Not applicable,Not applicable,Not applicable,300,9,309
+P1,1,4,3,4,26,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,300,10,310
+P1,1,4,3,4,27,1,72,C6,Not applicable,0,Not applicable,Is grace note,Not applicable,312,0,312
+P1,1,4,3,4,27,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,312,0,312
+P1,1,4,3,4,27,1,74,D6,1,1,Not applicable,Not applicable,Not applicable,312,2,314
+P1,1,4,3,4,27,1,73,C#/Db6,1,1,Not applicable,Not applicable,Not applicable,312,3,315
+P1,1,4,3,4,27,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,312,4,316
+P1,1,4,3,4,27,1,77,F6,1,1,Not applicable,Not applicable,Not applicable,312,6,318
+P1,1,4,3,4,27,1,76,E6,1,1,Not applicable,Not applicable,Not applicable,312,7,319
+P1,1,4,3,4,27,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,312,8,320
+P1,1,4,3,4,28,1,77,F6,2,2,Not applicable,Not applicable,Not applicable,324,0,324
+P1,1,4,3,4,28,1,76,E6,2,2,Not applicable,Not applicable,Not applicable,324,2,326
+P1,1,4,3,4,28,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,324,4,328
+P1,1,4,3,4,28,1,76,E6,2,2,Not applicable,Not applicable,Not applicable,324,8,332
+P1,1,4,3,4,28,1,77,F6,1,1,Not applicable,Not applicable,Not applicable,324,10,334
+P1,1,4,3,4,28,1,79,G6,1,1,Not applicable,Not applicable,Not applicable,324,11,335
+P1,1,4,3,4,29,1,76,E6,2,2,Not applicable,Not applicable,Not applicable,336,0,336
+P1,1,4,3,4,29,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,336,2,338
+P1,1,4,3,4,29,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,336,4,340
+P1,1,4,3,4,29,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,336,8,344
+P1,1,4,3,4,30,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,348,0,348
+P1,1,4,3,4,31,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,360,0,360
+P1,1,4,3,4,31,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,360,4,364
+P1,1,4,3,4,31,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,360,8,368
+P1,1,4,3,4,32,1,79,G6,6,6,Not applicable,Not applicable,Not applicable,372,0,372
+P1,1,4,3,4,32,1,77,F6,2,2,Not applicable,Not applicable,Not applicable,372,6,378
+P1,1,4,3,4,32,1,75,D#/Eb6,1,1,Not applicable,Not applicable,Not applicable,372,8,380
+P1,1,4,3,4,32,1,79,G6,1,1,Not applicable,Not applicable,Not applicable,372,9,381
+P1,1,4,3,4,32,1,77,F6,2,2,Not applicable,Not applicable,Not applicable,372,10,382
+P1,1,4,3,4,33,1,75,D#/Eb6,2,2,Not applicable,Not applicable,Not applicable,384,0,384
+P1,1,4,3,4,33,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,384,2,386
+P1,1,4,3,4,33,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,384,4,388
+P1,1,4,3,4,33,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,384,8,392
+P1,1,4,3,4,34,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,396,0,396
+P1,1,4,3,4,34,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,396,2,398
+P1,1,4,3,4,34,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,396,4,400
+P1,1,4,3,4,34,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,396,8,404
+P1,1,4,3,4,35,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,408,0,408
+P1,1,4,3,4,35,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,408,4,412
+P1,1,4,3,4,35,1,72,C6,4,4,Not applicable,Not applicable,Not applicable,408,8,416
+P1,1,4,3,4,36,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,420,0,420
+P1,1,4,3,4,36,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,420,2,422
+P1,1,4,3,4,36,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,420,4,424
+P1,1,4,3,4,36,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,420,8,428
+P1,1,4,3,4,37,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,432,0,432
+P1,1,4,3,4,37,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,432,2,434
+P1,1,4,3,4,37,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,432,4,436
+P1,1,4,3,4,37,1,74,D6,4,4,Not applicable,Not applicable,Not applicable,432,8,440
+P1,1,4,3,4,38,1,75,D#/Eb6,6,6,Not applicable,Not applicable,Not applicable,444,0,444
+P1,1,4,3,4,38,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,444,6,450
+P1,1,4,3,4,38,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,444,8,452
+P1,1,4,3,4,38,1,79,G6,1,1,Not applicable,Not applicable,Not applicable,444,9,453
+P1,1,4,3,4,38,1,77,F6,2,2,Not applicable,Not applicable,Not applicable,444,10,454
+P1,1,4,3,4,39,1,75,D#/Eb6,2,2,Not applicable,Not applicable,Not applicable,456,0,456
+P1,1,4,3,4,39,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,456,2,458
+P1,1,4,3,4,39,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,456,4,460
+P1,1,4,3,4,39,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,456,6,462
+P1,1,4,3,4,39,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,456,8,464
+P1,1,4,3,4,39,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,456,10,466
+P1,1,4,3,4,40,1,72,C6,6,6,Not applicable,Not applicable,Not applicable,468,0,468
+P1,1,4,3,4,40,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,468,6,474
+P1,1,4,3,4,40,1,69,A5,1,1,Not applicable,Not applicable,Not applicable,468,8,476
+P1,1,4,3,4,40,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,468,9,477
+P1,1,4,3,4,40,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,468,10,478
+P1,1,4,3,4,41,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,480,0,480
+P1,1,4,3,4,41,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,480,2,482
+P1,1,4,3,4,41,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,480,4,484
+P1,1,4,3,4,41,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,480,8,488
+P1,1,4,3,4,42,1,75,D#/Eb6,2,2,Not applicable,Not applicable,Not applicable,492,0,492
+P1,1,4,3,4,42,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,492,2,494
+P1,1,4,3,4,42,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,492,4,496
+P1,1,4,3,4,42,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,492,6,498
+P1,1,4,3,4,42,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,492,8,500
+P1,1,4,3,4,42,1,75,D#/Eb6,1,1,Not applicable,Not applicable,Not applicable,492,9,501
+P1,1,4,3,4,42,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,492,10,502
+P1,1,4,3,4,43,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,504,0,504
+P1,1,4,3,4,43,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,504,2,506
+P1,1,4,3,4,43,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,504,4,508
+P1,1,4,3,4,43,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,504,6,510
+P1,1,4,3,4,43,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,504,8,512
+P1,1,4,3,4,44,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,516,0,516
+P1,1,4,3,4,44,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,516,4,520
+P1,1,4,3,4,44,1,58,A#/Bb4,4,4,Not applicable,Not applicable,Not applicable,516,8,524
+P1,1,4,3,4,45,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,528,0,528
+P1,1,4,3,4,45,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,528,2,530
+P1,1,4,3,4,45,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,528,4,532
+P1,1,4,3,4,45,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,528,8,536
+P1,1,4,3,4,46,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,540,0,540
+P1,1,4,3,4,46,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,540,2,542
+P1,1,4,3,4,46,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,540,4,544
+P1,1,4,3,4,46,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,540,8,548
+P1,1,4,3,4,47,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,552,0,552
+P1,1,4,3,4,47,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,552,4,556
+P1,1,4,3,4,47,1,55,G4,4,4,Not applicable,Not applicable,Not applicable,552,8,560
+P1,1,4,3,4,48,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,564,0,564
+P1,1,4,3,4,48,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,564,2,566
+P1,1,4,3,4,48,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,564,4,568
+P1,1,4,3,4,48,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,564,8,572
+P1,1,4,3,4,49,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,576,0,576
+P1,1,4,3,4,49,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,576,2,578
+P1,1,4,3,4,49,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,576,4,580
+P1,1,4,3,4,49,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,576,8,584
+P1,1,4,3,4,50,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,588,0,588
+P1,1,4,3,4,50,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,588,4,592
+P1,1,4,3,4,50,1,72,C6,4,4,Not applicable,Not applicable,Not applicable,588,8,596
+P1,1,4,3,4,51,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,600,0,600
+P1,1,4,3,4,51,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,600,2,602
+P1,1,4,3,4,51,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,600,4,604
+P1,1,4,3,4,51,1,71,B5,4,4,Not applicable,Not applicable,Not applicable,600,8,608
+P1,1,4,3,4,52,1,71,B5,2,2,Not applicable,Not applicable,Not applicable,612,0,612
+P1,1,4,3,4,52,1,72,C6,2,2,Not applicable,Not applicable,Not applicable,612,2,614
+P1,1,4,3,4,52,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,612,4,616
+P1,1,4,3,4,52,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,612,8,620
+P1,1,4,3,4,53,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,624,0,624
+P1,1,4,3,4,53,1,60,C5,4,4,Not applicable,Not applicable,Not applicable,624,4,628
+P1,1,4,3,4,53,1,63,D#/Eb5,4,4,Not applicable,Not applicable,Not applicable,624,8,632
+P1,1,4,3,4,54,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,636,0,636
+P1,1,4,3,4,54,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,636,2,638
+P1,1,4,3,4,54,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,636,4,640
+P1,1,4,3,4,54,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,636,8,644
+P1,1,4,3,4,55,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,648,0,648
+P1,1,4,3,4,55,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,648,2,650
+P1,1,4,3,4,55,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,648,4,652
+P1,1,4,3,4,55,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,648,8,656
+P1,1,4,3,4,56,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,660,0,660
+P1,1,4,3,4,56,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,660,4,664
+P1,1,4,3,4,56,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,660,8,668
+P1,1,4,3,4,57,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,672,0,672
+P1,1,4,3,4,57,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,672,2,674
+P1,1,4,3,4,57,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,672,4,676
+P1,1,4,3,4,57,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,672,8,680
+P1,1,4,3,4,58,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,684,0,684
+P1,1,4,3,4,58,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,684,2,686
+P1,1,4,3,4,58,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,684,4,688
+P1,1,4,3,4,58,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,684,8,692
+P1,1,4,3,4,58,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,684,10,694
+P1,1,4,3,4,58,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,684,11,695
+P1,1,4,3,4,59,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,696,0,696
+P1,1,4,3,4,59,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,696,2,698
+P1,1,4,3,4,59,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,696,4,700
+P1,1,4,3,4,59,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,696,8,704
+P1,1,4,3,4,60,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,708,0,708
+P1,1,4,3,4,60,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,708,2,710
+P1,1,4,3,4,60,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,708,4,712
+P1,1,4,3,4,60,1,61,C#/Db5,4,4,Not applicable,Not applicable,Not applicable,708,8,716
+P1,1,4,3,4,61,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,720,0,720
+P1,1,4,3,4,61,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,720,2,722
+P1,1,4,3,4,61,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,720,4,724
+P1,1,4,3,4,61,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,720,8,728
+P1,1,4,3,4,62,1,62,D5,6,6,Not applicable,Not applicable,Not applicable,732,0,732
+P1,1,4,3,4,62,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,732,6,738
+P1,1,4,3,4,62,1,57,A4,1,1,Not applicable,Not applicable,Not applicable,732,8,740
+P1,1,4,3,4,62,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,732,9,741
+P1,1,4,3,4,62,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,732,10,742
+P1,1,4,3,4,63,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,744,0,744
+P1,1,4,3,4,63,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,744,4,748
+P1,1,4,3,4,63,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,744,5,749
+P1,1,4,3,4,63,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,744,6,750
+P1,1,4,3,4,63,1,67,G5,Not applicable,0,Not applicable,Is grace note,Not applicable,744,8,752
+P1,1,4,3,4,63,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,744,8,752
+P1,1,4,3,4,64,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,756,0,756
+P1,1,4,3,4,64,1,61,C#/Db5,1,1,Not applicable,Not applicable,Not applicable,756,1,757
+P1,1,4,3,4,64,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,756,2,758
+P1,1,4,3,4,64,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,756,4,760
+P1,1,4,3,4,64,1,61,C#/Db5,3,3,Not applicable,Not applicable,Not applicable,756,8,764
+P1,1,4,3,4,64,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,756,11,767
+P1,1,4,3,4,65,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,768,0,768
+P2,2,4,3,4,1,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,0,0,0
+P2,2,4,3,4,2,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,12,0,12
+P2,2,4,3,4,3,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,24,0,24
+P2,2,4,3,4,3,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,24,4,28
+P2,2,4,3,4,3,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,24,8,32
+P2,2,4,3,4,4,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,36,0,36
+P2,2,4,3,4,4,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,36,6,42
+P2,2,4,3,4,4,1,55,G4,1,1,Not applicable,Not applicable,Not applicable,36,8,44
+P2,2,4,3,4,4,1,58,A#/Bb4,1,1,Not applicable,Not applicable,Not applicable,36,9,45
+P2,2,4,3,4,4,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,36,10,46
+P2,2,4,3,4,5,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,48,0,48
+P2,2,4,3,4,5,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,48,4,52
+P2,2,4,3,4,5,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,48,6,54
+P2,2,4,3,4,5,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,48,8,56
+P2,2,4,3,4,6,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,60,0,60
+P2,2,4,3,4,6,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,60,2,62
+P2,2,4,3,4,6,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,60,4,64
+P2,2,4,3,4,6,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,60,8,68
+P2,2,4,3,4,6,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,60,10,70
+P2,2,4,3,4,6,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,60,11,71
+P2,2,4,3,4,7,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,72,0,72
+P2,2,4,3,4,7,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,72,2,74
+P2,2,4,3,4,7,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,72,4,76
+P2,2,4,3,4,7,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,72,8,80
+P2,2,4,3,4,8,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,84,0,84
+P2,2,4,3,4,8,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,84,2,86
+P2,2,4,3,4,8,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,84,4,88
+P2,2,4,3,4,8,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,84,8,92
+P2,2,4,3,4,9,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,96,0,96
+P2,2,4,3,4,9,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,96,4,100
+P2,2,4,3,4,9,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,96,8,104
+P2,2,4,3,4,10,1,65,F5,6,6,Not applicable,Not applicable,Not applicable,108,0,108
+P2,2,4,3,4,10,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,108,6,114
+P2,2,4,3,4,10,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,108,8,116
+P2,2,4,3,4,10,1,69,A5,1,1,Not applicable,Not applicable,Not applicable,108,9,117
+P2,2,4,3,4,10,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,108,10,118
+P2,2,4,3,4,11,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,120,0,120
+P2,2,4,3,4,11,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,120,2,122
+P2,2,4,3,4,11,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,120,4,124
+P2,2,4,3,4,11,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,120,6,126
+P2,2,4,3,4,11,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,120,8,128
+P2,2,4,3,4,11,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,120,10,130
+P2,2,4,3,4,12,1,62,D5,6,6,Not applicable,Not applicable,Not applicable,132,0,132
+P2,2,4,3,4,12,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,132,6,138
+P2,2,4,3,4,12,1,59,B4,1,1,Not applicable,Not applicable,Not applicable,132,8,140
+P2,2,4,3,4,12,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,132,9,141
+P2,2,4,3,4,12,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,132,10,142
+P2,2,4,3,4,13,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,144,0,144
+P2,2,4,3,4,13,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,144,2,146
+P2,2,4,3,4,13,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,144,4,148
+P2,2,4,3,4,13,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,144,8,152
+P2,2,4,3,4,14,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,156,0,156
+P2,2,4,3,4,14,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,156,2,158
+P2,2,4,3,4,14,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,156,4,160
+P2,2,4,3,4,14,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,156,6,162
+P2,2,4,3,4,14,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,156,8,164
+P2,2,4,3,4,14,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,156,9,165
+P2,2,4,3,4,14,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,156,10,166
+P2,2,4,3,4,15,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,168,0,168
+P2,2,4,3,4,15,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,168,2,170
+P2,2,4,3,4,15,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,168,4,172
+P2,2,4,3,4,15,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,168,6,174
+P2,2,4,3,4,15,1,60,C5,4,4,Not applicable,Not applicable,Not applicable,168,8,176
+P2,2,4,3,4,16,1,62,D5,6,6,Not applicable,Not applicable,Not applicable,180,0,180
+P2,2,4,3,4,16,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,180,6,186
+P2,2,4,3,4,16,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,180,7,187
+P2,2,4,3,4,16,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,180,8,188
+P2,2,4,3,4,16,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,180,9,189
+P2,2,4,3,4,16,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,180,10,190
+P2,2,4,3,4,17,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,192,0,192
+P2,2,4,3,4,17,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,192,4,196
+P2,2,4,3,4,17,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,192,6,198
+P2,2,4,3,4,17,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,192,8,200
+P2,2,4,3,4,17,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,192,10,202
+P2,2,4,3,4,18,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,204,0,204
+P2,2,4,3,4,18,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,204,2,206
+P2,2,4,3,4,18,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,204,4,208
+P2,2,4,3,4,18,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,204,8,212
+P2,2,4,3,4,18,1,60,C5,1,1,Not applicable,Not applicable,Not applicable,204,10,214
+P2,2,4,3,4,18,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,204,11,215
+P2,2,4,3,4,19,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,216,0,216
+P2,2,4,3,4,19,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,216,2,218
+P2,2,4,3,4,19,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,216,4,220
+P2,2,4,3,4,19,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,216,8,224
+P2,2,4,3,4,20,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,228,0,228
+P2,2,4,3,4,20,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,228,2,230
+P2,2,4,3,4,20,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,228,4,232
+P2,2,4,3,4,20,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,228,8,236
+P2,2,4,3,4,20,1,57,A4,1,1,Not applicable,Not applicable,Not applicable,228,10,238
+P2,2,4,3,4,20,1,58,A#/Bb4,1,1,Not applicable,Not applicable,Not applicable,228,11,239
+P2,2,4,3,4,21,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,240,0,240
+P2,2,4,3,4,21,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,240,2,242
+P2,2,4,3,4,21,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,240,4,244
+P2,2,4,3,4,21,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,240,8,248
+P2,2,4,3,4,22,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,252,0,252
+P2,2,4,3,4,22,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,252,2,254
+P2,2,4,3,4,22,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,252,4,256
+P2,2,4,3,4,22,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,252,6,258
+P2,2,4,3,4,22,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,252,8,260
+P2,2,4,3,4,22,1,57,A4,1,1,Not applicable,Not applicable,Not applicable,252,10,262
+P2,2,4,3,4,22,1,59,B4,1,1,Not applicable,Not applicable,Not applicable,252,11,263
+P2,2,4,3,4,23,1,60,C5,4,4,Not applicable,Not applicable,Not applicable,264,0,264
+P2,2,4,3,4,23,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,264,4,268
+P2,2,4,3,4,23,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,264,8,272
+P2,2,4,3,4,24,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,276,0,276
+P2,2,4,3,4,25,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,288,0,288
+P2,2,4,3,4,26,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,300,0,300
+P2,2,4,3,4,27,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,312,0,312
+P2,2,4,3,4,27,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,312,4,316
+P2,2,4,3,4,27,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,312,8,320
+P2,2,4,3,4,28,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,324,0,324
+P2,2,4,3,4,28,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,324,6,330
+P2,2,4,3,4,28,1,55,G4,1,1,Not applicable,Not applicable,Not applicable,324,8,332
+P2,2,4,3,4,28,1,58,A#/Bb4,1,1,Not applicable,Not applicable,Not applicable,324,9,333
+P2,2,4,3,4,28,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,324,10,334
+P2,2,4,3,4,29,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,336,0,336
+P2,2,4,3,4,29,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,336,4,340
+P2,2,4,3,4,29,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,336,6,342
+P2,2,4,3,4,29,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,336,8,344
+P2,2,4,3,4,30,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,348,0,348
+P2,2,4,3,4,30,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,348,2,350
+P2,2,4,3,4,30,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,348,4,352
+P2,2,4,3,4,30,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,348,8,356
+P2,2,4,3,4,30,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,348,10,358
+P2,2,4,3,4,30,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,348,11,359
+P2,2,4,3,4,31,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,360,0,360
+P2,2,4,3,4,31,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,360,2,362
+P2,2,4,3,4,31,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,360,4,364
+P2,2,4,3,4,31,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,360,8,368
+P2,2,4,3,4,32,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,372,0,372
+P2,2,4,3,4,32,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,372,2,374
+P2,2,4,3,4,32,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,372,4,376
+P2,2,4,3,4,32,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,372,8,380
+P2,2,4,3,4,32,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,372,10,382
+P2,2,4,3,4,32,1,63,D#/Eb5,1,1,Not applicable,Not applicable,Not applicable,372,11,383
+P2,2,4,3,4,33,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,384,0,384
+P2,2,4,3,4,33,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,384,2,386
+P2,2,4,3,4,33,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,384,4,388
+P2,2,4,3,4,33,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,384,8,392
+P2,2,4,3,4,34,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,396,0,396
+P2,2,4,3,4,34,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,396,2,398
+P2,2,4,3,4,34,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,396,4,400
+P2,2,4,3,4,34,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,396,8,404
+P2,2,4,3,4,35,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,408,0,408
+P2,2,4,3,4,35,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,408,2,410
+P2,2,4,3,4,35,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,408,4,412
+P2,2,4,3,4,35,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,408,8,416
+P2,2,4,3,4,36,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,420,0,420
+P2,2,4,3,4,36,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,420,4,424
+P2,2,4,3,4,36,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,420,8,428
+P2,2,4,3,4,37,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,432,0,432
+P2,2,4,3,4,37,1,66,F#/Gb5,2,2,Not applicable,Not applicable,Not applicable,432,2,434
+P2,2,4,3,4,37,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,432,4,436
+P2,2,4,3,4,37,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,432,8,440
+P2,2,4,3,4,38,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,444,0,444
+P2,2,4,3,4,39,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,456,0,456
+P2,2,4,3,4,39,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,456,4,460
+P2,2,4,3,4,39,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,456,8,464
+P2,2,4,3,4,40,1,63,D#/Eb5,6,6,Not applicable,Not applicable,Not applicable,468,0,468
+P2,2,4,3,4,40,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,468,6,474
+P2,2,4,3,4,40,1,60,C5,1,1,Not applicable,Not applicable,Not applicable,468,8,476
+P2,2,4,3,4,40,1,63,D#/Eb5,1,1,Not applicable,Not applicable,Not applicable,468,9,477
+P2,2,4,3,4,40,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,468,10,478
+P2,2,4,3,4,41,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,480,0,480
+P2,2,4,3,4,41,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,480,2,482
+P2,2,4,3,4,41,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,480,4,484
+P2,2,4,3,4,41,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,480,6,486
+P2,2,4,3,4,41,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,480,8,488
+P2,2,4,3,4,41,1,58,A#/Bb4,1,1,Not applicable,Not applicable,Not applicable,480,10,490
+P2,2,4,3,4,41,1,60,C5,1,1,Not applicable,Not applicable,Not applicable,480,11,491
+P2,2,4,3,4,42,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,492,0,492
+P2,2,4,3,4,42,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,492,6,498
+P2,2,4,3,4,42,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,492,8,500
+P2,2,4,3,4,42,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,492,10,502
+P2,2,4,3,4,43,1,55,G4,4,4,Not applicable,Not applicable,Not applicable,504,0,504
+P2,2,4,3,4,43,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,504,4,508
+P2,2,4,3,4,43,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,504,8,512
+P2,2,4,3,4,44,1,64,E5,6,6,Not applicable,Not applicable,Not applicable,516,0,516
+P2,2,4,3,4,44,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,516,6,522
+P2,2,4,3,4,44,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,516,7,523
+P2,2,4,3,4,44,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,516,8,524
+P2,2,4,3,4,44,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,516,9,525
+P2,2,4,3,4,44,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,516,10,526
+P2,2,4,3,4,45,1,61,C#/Db5,4,4,Not applicable,Not applicable,Not applicable,528,0,528
+P2,2,4,3,4,45,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,528,4,532
+P2,2,4,3,4,45,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,528,6,534
+P2,2,4,3,4,45,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,528,8,536
+P2,2,4,3,4,46,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,540,0,540
+P2,2,4,3,4,46,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,540,4,544
+P2,2,4,3,4,46,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,540,8,548
+P2,2,4,3,4,47,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,552,0,552
+P2,2,4,3,4,47,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,552,2,554
+P2,2,4,3,4,47,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,552,4,556
+P2,2,4,3,4,47,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,552,8,560
+P2,2,4,3,4,48,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,564,0,564
+P2,2,4,3,4,48,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,564,2,566
+P2,2,4,3,4,48,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,564,4,568
+P2,2,4,3,4,48,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,564,8,572
+P2,2,4,3,4,49,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,576,0,576
+P2,2,4,3,4,49,1,52,E4,4,4,Not applicable,Not applicable,Not applicable,576,4,580
+P2,2,4,3,4,49,1,55,G4,4,4,Not applicable,Not applicable,Not applicable,576,8,584
+P2,2,4,3,4,50,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,588,0,588
+P2,2,4,3,4,50,1,54,F#/Gb4,2,2,Not applicable,Not applicable,Not applicable,588,2,590
+P2,2,4,3,4,50,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,588,4,592
+P2,2,4,3,4,50,1,66,F#/Gb5,4,4,Not applicable,Not applicable,Not applicable,588,8,596
+P2,2,4,3,4,51,1,66,F#/Gb5,2,2,Not applicable,Not applicable,Not applicable,600,0,600
+P2,2,4,3,4,51,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,600,2,602
+P2,2,4,3,4,51,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,600,4,604
+P2,2,4,3,4,51,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,600,8,608
+P2,2,4,3,4,52,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,612,0,612
+P2,2,4,3,4,52,1,55,G4,4,4,Not applicable,Not applicable,Not applicable,612,4,616
+P2,2,4,3,4,52,1,58,A#/Bb4,4,4,Not applicable,Not applicable,Not applicable,612,8,620
+P2,2,4,3,4,53,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,624,0,624
+P2,2,4,3,4,53,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,624,2,626
+P2,2,4,3,4,53,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,624,4,628
+P2,2,4,3,4,53,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,624,8,632
+P2,2,4,3,4,54,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,636,0,636
+P2,2,4,3,4,54,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,636,2,638
+P2,2,4,3,4,54,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,636,4,640
+P2,2,4,3,4,54,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,636,8,644
+P2,2,4,3,4,55,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,648,0,648
+P2,2,4,3,4,55,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,648,4,652
+P2,2,4,3,4,55,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,648,8,656
+P2,2,4,3,4,56,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,660,0,660
+P2,2,4,3,4,56,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,660,2,662
+P2,2,4,3,4,56,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,660,4,664
+P2,2,4,3,4,56,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,660,8,668
+P2,2,4,3,4,57,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,672,0,672
+P2,2,4,3,4,57,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,672,2,674
+P2,2,4,3,4,57,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,672,4,676
+P2,2,4,3,4,57,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,672,8,680
+P2,2,4,3,4,58,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,684,0,684
+P2,2,4,3,4,59,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,696,0,696
+P2,2,4,3,4,59,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,696,4,700
+P2,2,4,3,4,59,1,74,D6,4,4,Not applicable,Not applicable,Not applicable,696,8,704
+P2,2,4,3,4,60,1,70,A#/Bb5,6,6,Not applicable,Not applicable,Not applicable,708,0,708
+P2,2,4,3,4,60,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,708,6,714
+P2,2,4,3,4,60,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,708,8,716
+P2,2,4,3,4,60,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,708,9,717
+P2,2,4,3,4,60,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,708,10,718
+P2,2,4,3,4,61,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,720,0,720
+P2,2,4,3,4,61,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,720,2,722
+P2,2,4,3,4,61,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,720,4,724
+P2,2,4,3,4,61,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,720,6,726
+P2,2,4,3,4,61,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,720,8,728
+P2,2,4,3,4,61,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,720,10,730
+P2,2,4,3,4,61,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,720,11,731
+P2,2,4,3,4,62,1,65,F5,6,6,Not applicable,Not applicable,Not applicable,732,0,732
+P2,2,4,3,4,62,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,732,6,738
+P2,2,4,3,4,62,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,732,8,740
+P2,2,4,3,4,62,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,732,10,742
+P2,2,4,3,4,63,1,61,C#/Db5,6,6,Not applicable,Not applicable,Not applicable,744,0,744
+P2,2,4,3,4,63,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,744,6,750
+P2,2,4,3,4,63,1,56,G#/Ab4,4,4,Not applicable,Not applicable,Not applicable,744,8,752
+P2,2,4,3,4,64,1,56,G#/Ab4,2,2,Not applicable,Not applicable,Not applicable,756,0,756
+P2,2,4,3,4,64,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,756,2,758
+P2,2,4,3,4,64,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,756,4,760
+P2,2,4,3,4,64,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,756,8,764
+P2,2,4,3,4,64,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,756,10,766
+P2,2,4,3,4,65,1,50,D4,12,12,Not applicable,Not applicable,Not applicable,768,0,768
+P3,3,4,3,4,1,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,0,0,0
+P3,3,4,3,4,1,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,0,4,4
+P3,3,4,3,4,1,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,0,8,8
+P3,3,4,3,4,2,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,12,0,12
+P3,3,4,3,4,2,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,12,6,18
+P3,3,4,3,4,2,1,55,G4,1,1,Not applicable,Not applicable,Not applicable,12,8,20
+P3,3,4,3,4,2,1,58,A#/Bb4,1,1,Not applicable,Not applicable,Not applicable,12,9,21
+P3,3,4,3,4,2,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,12,10,22
+P3,3,4,3,4,3,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,24,0,24
+P3,3,4,3,4,3,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,24,4,28
+P3,3,4,3,4,3,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,24,6,30
+P3,3,4,3,4,3,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,24,8,32
+P3,3,4,3,4,4,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,36,0,36
+P3,3,4,3,4,4,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,36,2,38
+P3,3,4,3,4,4,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,36,4,40
+P3,3,4,3,4,4,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,36,8,44
+P3,3,4,3,4,4,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,36,10,46
+P3,3,4,3,4,4,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,36,11,47
+P3,3,4,3,4,5,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,48,0,48
+P3,3,4,3,4,5,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,48,2,50
+P3,3,4,3,4,5,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,48,4,52
+P3,3,4,3,4,5,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,48,8,56
+P3,3,4,3,4,6,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,60,0,60
+P3,3,4,3,4,6,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,60,2,62
+P3,3,4,3,4,6,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,60,4,64
+P3,3,4,3,4,6,1,61,C#/Db5,4,4,Not applicable,Not applicable,Not applicable,60,8,68
+P3,3,4,3,4,7,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,72,0,72
+P3,3,4,3,4,7,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,72,2,74
+P3,3,4,3,4,7,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,72,4,76
+P3,3,4,3,4,7,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,72,8,80
+P3,3,4,3,4,8,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,84,0,84
+P3,3,4,3,4,8,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,84,4,88
+P3,3,4,3,4,8,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,84,8,92
+P3,3,4,3,4,9,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,96,0,96
+P3,3,4,3,4,9,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,96,2,98
+P3,3,4,3,4,9,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,96,4,100
+P3,3,4,3,4,9,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,96,8,104
+P3,3,4,3,4,10,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,108,0,108
+P3,3,4,3,4,11,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,120,0,120
+P3,3,4,3,4,11,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,120,4,124
+P3,3,4,3,4,11,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,120,8,128
+P3,3,4,3,4,12,1,65,F5,6,6,Not applicable,Not applicable,Not applicable,132,0,132
+P3,3,4,3,4,12,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,132,6,138
+P3,3,4,3,4,12,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,132,8,140
+P3,3,4,3,4,12,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,132,9,141
+P3,3,4,3,4,12,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,132,10,142
+P3,3,4,3,4,13,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,144,0,144
+P3,3,4,3,4,13,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,144,2,146
+P3,3,4,3,4,13,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,144,4,148
+P3,3,4,3,4,13,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,144,6,150
+P3,3,4,3,4,13,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,144,8,152
+P3,3,4,3,4,13,1,60,C5,1,1,Not applicable,Not applicable,Not applicable,144,10,154
+P3,3,4,3,4,13,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,144,11,155
+P3,3,4,3,4,14,1,60,C5,6,6,Not applicable,Not applicable,Not applicable,156,0,156
+P3,3,4,3,4,14,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,156,6,162
+P3,3,4,3,4,14,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,156,8,164
+P3,3,4,3,4,14,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,156,10,166
+P3,3,4,3,4,15,1,59,B4,2,2,Not applicable,Not applicable,Not applicable,168,0,168
+P3,3,4,3,4,15,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,168,2,170
+P3,3,4,3,4,15,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,168,4,172
+P3,3,4,3,4,15,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,168,8,176
+P3,3,4,3,4,16,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,180,0,180
+P3,3,4,3,4,17,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,192,0,192
+P3,3,4,3,4,17,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,192,4,196
+P3,3,4,3,4,17,1,60,C5,4,4,Not applicable,Not applicable,Not applicable,192,8,200
+P3,3,4,3,4,18,1,62,D5,6,6,Not applicable,Not applicable,Not applicable,204,0,204
+P3,3,4,3,4,18,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,204,6,210
+P3,3,4,3,4,18,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,204,7,211
+P3,3,4,3,4,18,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,204,8,212
+P3,3,4,3,4,18,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,204,9,213
+P3,3,4,3,4,18,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,204,10,214
+P3,3,4,3,4,19,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,216,0,216
+P3,3,4,3,4,19,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,216,4,220
+P3,3,4,3,4,19,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,216,6,222
+P3,3,4,3,4,19,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,216,8,224
+P3,3,4,3,4,19,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,216,10,226
+P3,3,4,3,4,20,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,228,0,228
+P3,3,4,3,4,20,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,228,2,230
+P3,3,4,3,4,20,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,228,4,232
+P3,3,4,3,4,20,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,228,8,236
+P3,3,4,3,4,20,1,60,C5,1,1,Not applicable,Not applicable,Not applicable,228,10,238
+P3,3,4,3,4,20,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,228,11,239
+P3,3,4,3,4,21,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,240,0,240
+P3,3,4,3,4,21,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,240,2,242
+P3,3,4,3,4,21,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,240,4,244
+P3,3,4,3,4,21,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,240,8,248
+P3,3,4,3,4,22,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,252,0,252
+P3,3,4,3,4,22,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,252,2,254
+P3,3,4,3,4,22,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,252,4,256
+P3,3,4,3,4,22,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,252,6,258
+P3,3,4,3,4,22,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,252,8,260
+P3,3,4,3,4,22,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,252,10,262
+P3,3,4,3,4,23,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,264,0,264
+P3,3,4,3,4,23,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,264,4,268
+P3,3,4,3,4,23,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,264,8,272
+P3,3,4,3,4,24,1,69,A5,6,6,Not applicable,Not applicable,Not applicable,276,0,276
+P3,3,4,3,4,24,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,276,6,282
+P3,3,4,3,4,24,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,276,8,284
+P3,3,4,3,4,24,1,69,A5,1,1,Not applicable,Not applicable,Not applicable,276,9,285
+P3,3,4,3,4,24,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,276,10,286
+P3,3,4,3,4,25,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,288,0,288
+P3,3,4,3,4,25,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,288,2,290
+P3,3,4,3,4,25,1,66,F#/Gb5,1,1,Not applicable,Not applicable,Not applicable,288,3,291
+P3,3,4,3,4,25,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,288,4,292
+P3,3,4,3,4,25,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,288,6,294
+P3,3,4,3,4,25,1,69,A5,1,1,Not applicable,Not applicable,Not applicable,288,7,295
+P3,3,4,3,4,25,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,288,8,296
+P3,3,4,3,4,26,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,300,0,300
+P3,3,4,3,4,26,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,300,2,302
+P3,3,4,3,4,26,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,300,4,304
+P3,3,4,3,4,26,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,300,8,308
+P3,3,4,3,4,26,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,300,10,310
+P3,3,4,3,4,26,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,300,11,311
+P3,3,4,3,4,27,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,312,0,312
+P3,3,4,3,4,27,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,312,2,314
+P3,3,4,3,4,27,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,312,4,316
+P3,3,4,3,4,27,1,74,D6,4,4,Not applicable,Not applicable,Not applicable,312,8,320
+P3,3,4,3,4,28,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,324,0,324
+P3,3,4,3,4,28,1,73,C#/Db6,2,2,Not applicable,Not applicable,Not applicable,324,2,326
+P3,3,4,3,4,28,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,324,4,328
+P3,3,4,3,4,28,1,73,C#/Db6,4,4,Not applicable,Not applicable,Not applicable,324,8,332
+P3,3,4,3,4,29,1,73,C#/Db6,2,2,Not applicable,Not applicable,Not applicable,336,0,336
+P3,3,4,3,4,29,1,74,D6,2,2,Not applicable,Not applicable,Not applicable,336,2,338
+P3,3,4,3,4,29,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,336,4,340
+P3,3,4,3,4,29,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,336,8,344
+P3,3,4,3,4,30,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,348,0,348
+P3,3,4,3,4,30,1,60,C5,1,1,Not applicable,Not applicable,Not applicable,348,6,354
+P3,3,4,3,4,30,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,348,7,355
+P3,3,4,3,4,30,1,63,D#/Eb5,1,1,Not applicable,Not applicable,Not applicable,348,8,356
+P3,3,4,3,4,30,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,348,9,357
+P3,3,4,3,4,30,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,348,10,358
+P3,3,4,3,4,31,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,360,0,360
+P3,3,4,3,4,31,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,360,4,364
+P3,3,4,3,4,31,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,360,6,366
+P3,3,4,3,4,31,1,58,A#/Bb4,4,4,Not applicable,Not applicable,Not applicable,360,8,368
+P3,3,4,3,4,32,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,372,0,372
+P3,3,4,3,4,32,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,372,6,378
+P3,3,4,3,4,32,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,372,8,380
+P3,3,4,3,4,33,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,384,0,384
+P3,3,4,3,4,33,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,384,2,386
+P3,3,4,3,4,33,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,384,4,388
+P3,3,4,3,4,33,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,384,8,392
+P3,3,4,3,4,34,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,396,0,396
+P3,3,4,3,4,34,1,60,C5,4,4,Not applicable,Not applicable,Not applicable,396,4,400
+P3,3,4,3,4,34,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,396,8,404
+P3,3,4,3,4,35,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,408,0,408
+P3,3,4,3,4,35,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,408,2,410
+P3,3,4,3,4,35,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,408,4,412
+P3,3,4,3,4,35,1,63,D#/Eb5,4,4,Not applicable,Not applicable,Not applicable,408,8,416
+P3,3,4,3,4,36,1,63,D#/Eb5,2,2,Not applicable,Not applicable,Not applicable,420,0,420
+P3,3,4,3,4,36,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,420,2,422
+P3,3,4,3,4,36,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,420,4,424
+P3,3,4,3,4,36,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,420,8,428
+P3,3,4,3,4,37,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,432,0,432
+P3,3,4,3,4,37,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,432,4,436
+P3,3,4,3,4,37,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,432,8,440
+P3,3,4,3,4,38,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,444,0,444
+P3,3,4,3,4,38,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,444,2,446
+P3,3,4,3,4,38,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,444,4,448
+P3,3,4,3,4,38,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,444,8,452
+P3,3,4,3,4,38,1,70,A#/Bb5,1,1,Not applicable,Not applicable,Not applicable,444,10,454
+P3,3,4,3,4,38,1,72,C6,1,1,Not applicable,Not applicable,Not applicable,444,11,455
+P3,3,4,3,4,39,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,456,0,456
+P3,3,4,3,4,39,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,456,2,458
+P3,3,4,3,4,39,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,456,4,460
+P3,3,4,3,4,39,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,456,8,464
+P3,3,4,3,4,40,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,468,0,468
+P3,3,4,3,4,40,1,66,F#/Gb5,2,2,Not applicable,Not applicable,Not applicable,468,2,470
+P3,3,4,3,4,40,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,468,4,472
+P3,3,4,3,4,40,1,66,F#/Gb5,4,4,Not applicable,Not applicable,Not applicable,468,8,476
+P3,3,4,3,4,41,1,66,F#/Gb5,2,2,Not applicable,Not applicable,Not applicable,480,0,480
+P3,3,4,3,4,41,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,480,2,482
+P3,3,4,3,4,41,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,480,4,484
+P3,3,4,3,4,41,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,480,8,488
+P3,3,4,3,4,42,1,67,G5,6,6,Not applicable,Not applicable,Not applicable,492,0,492
+P3,3,4,3,4,42,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,492,6,498
+P3,3,4,3,4,42,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,492,8,500
+P3,3,4,3,4,42,1,67,G5,1,1,Not applicable,Not applicable,Not applicable,492,9,501
+P3,3,4,3,4,42,1,66,F#/Gb5,2,2,Not applicable,Not applicable,Not applicable,492,10,502
+P3,3,4,3,4,43,1,66,F#/Gb5,Not applicable,0,Not applicable,Is grace note,Not applicable,504,0,504
+P3,3,4,3,4,43,1,67,G5,4,4,Not applicable,Not applicable,Not applicable,504,0,504
+P3,3,4,3,4,43,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,504,4,508
+P3,3,4,3,4,43,1,58,A#/Bb4,4,4,Not applicable,Not applicable,Not applicable,504,8,512
+P3,3,4,3,4,44,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,516,0,516
+P3,3,4,3,4,44,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,516,2,518
+P3,3,4,3,4,44,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,516,4,520
+P3,3,4,3,4,44,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,516,8,524
+P3,3,4,3,4,45,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,528,0,528
+P3,3,4,3,4,45,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,528,4,532
+P3,3,4,3,4,45,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,528,8,536
+P3,3,4,3,4,46,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,540,0,540
+P3,3,4,3,4,46,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,540,2,542
+P3,3,4,3,4,46,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,540,4,544
+P3,3,4,3,4,46,1,53,F4,4,4,Not applicable,Not applicable,Not applicable,540,8,548
+P3,3,4,3,4,47,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,552,0,552
+P3,3,4,3,4,47,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,552,2,554
+P3,3,4,3,4,47,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,552,4,556
+P3,3,4,3,4,47,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,552,8,560
+P3,3,4,3,4,48,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,564,0,564
+P3,3,4,3,4,48,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,564,4,568
+P3,3,4,3,4,48,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,564,8,572
+P3,3,4,3,4,49,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,576,0,576
+P3,3,4,3,4,49,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,576,2,578
+P3,3,4,3,4,49,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,576,4,580
+P3,3,4,3,4,49,1,61,C#/Db5,4,4,Not applicable,Not applicable,Not applicable,576,8,584
+P3,3,4,3,4,50,1,61,C#/Db5,2,2,Not applicable,Not applicable,Not applicable,588,0,588
+P3,3,4,3,4,50,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,588,2,590
+P3,3,4,3,4,50,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,588,4,592
+P3,3,4,3,4,50,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,588,8,596
+P3,3,4,3,4,51,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,600,0,600
+P3,3,4,3,4,51,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,600,4,604
+P3,3,4,3,4,51,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,600,8,608
+P3,3,4,3,4,52,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,612,0,612
+P3,3,4,3,4,52,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,612,2,614
+P3,3,4,3,4,52,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,612,4,616
+P3,3,4,3,4,52,1,64,E5,4,4,Not applicable,Not applicable,Not applicable,612,8,620
+P3,3,4,3,4,53,1,64,E5,2,2,Not applicable,Not applicable,Not applicable,624,0,624
+P3,3,4,3,4,53,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,624,2,626
+P3,3,4,3,4,53,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,624,4,628
+P3,3,4,3,4,53,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,624,8,632
+P3,3,4,3,4,54,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,636,0,636
+P3,3,4,3,4,54,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,636,4,640
+P3,3,4,3,4,54,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,636,8,644
+P3,3,4,3,4,55,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,648,0,648
+P3,3,4,3,4,55,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,648,2,650
+P3,3,4,3,4,55,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,648,4,652
+P3,3,4,3,4,55,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,648,8,656
+P3,3,4,3,4,56,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,660,0,660
+P3,3,4,3,4,56,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,660,2,662
+P3,3,4,3,4,56,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,660,4,664
+P3,3,4,3,4,56,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,660,8,668
+P3,3,4,3,4,57,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,672,0,672
+P3,3,4,3,4,57,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,672,4,676
+P3,3,4,3,4,57,1,57,A4,4,4,Not applicable,Not applicable,Not applicable,672,8,680
+P3,3,4,3,4,58,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,684,0,684
+P3,3,4,3,4,58,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,684,6,690
+P3,3,4,3,4,58,1,55,G4,1,1,Not applicable,Not applicable,Not applicable,684,8,692
+P3,3,4,3,4,58,1,62,D5,1,1,Not applicable,Not applicable,Not applicable,684,9,693
+P3,3,4,3,4,58,1,60,C5,2,2,Not applicable,Not applicable,Not applicable,684,10,694
+P3,3,4,3,4,59,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,696,0,696
+P3,3,4,3,4,59,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,696,2,698
+P3,3,4,3,4,59,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,696,4,700
+P3,3,4,3,4,59,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,696,6,702
+P3,3,4,3,4,59,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,696,8,704
+P3,3,4,3,4,59,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,696,10,706
+P3,3,4,3,4,60,1,55,G4,6,6,Not applicable,Not applicable,Not applicable,708,0,708
+P3,3,4,3,4,60,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,708,6,714
+P3,3,4,3,4,60,1,52,E4,1,1,Not applicable,Not applicable,Not applicable,708,8,716
+P3,3,4,3,4,60,1,55,G4,1,1,Not applicable,Not applicable,Not applicable,708,9,717
+P3,3,4,3,4,60,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,708,10,718
+P3,3,4,3,4,61,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,720,0,720
+P3,3,4,3,4,61,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,720,2,722
+P3,3,4,3,4,61,1,NA,Not applicable,4,4,Is rest value,Not applicable,Not applicable,720,4,724
+P3,3,4,3,4,61,1,70,A#/Bb5,4,4,Not applicable,Not applicable,Not applicable,720,8,728
+P3,3,4,3,4,62,1,70,A#/Bb5,2,2,Not applicable,Not applicable,Not applicable,732,0,732
+P3,3,4,3,4,62,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,732,2,734
+P3,3,4,3,4,62,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,732,4,736
+P3,3,4,3,4,62,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,732,6,738
+P3,3,4,3,4,62,1,67,G5,2,2,Not applicable,Not applicable,Not applicable,732,8,740
+P3,3,4,3,4,62,1,69,A5,2,2,Not applicable,Not applicable,Not applicable,732,10,742
+P3,3,4,3,4,63,1,65,F5,Not applicable,0,Not applicable,Is grace note,Not applicable,744,0,744
+P3,3,4,3,4,63,1,64,E5,6,6,Not applicable,Not applicable,Not applicable,744,0,744
+P3,3,4,3,4,63,1,65,F5,2,2,Not applicable,Not applicable,Not applicable,744,6,750
+P3,3,4,3,4,63,1,62,D5,4,4,Not applicable,Not applicable,Not applicable,744,8,752
+P3,3,4,3,4,64,1,62,D5,2,2,Not applicable,Not applicable,Not applicable,756,0,756
+P3,3,4,3,4,64,1,64,E5,1,1,Not applicable,Not applicable,Not applicable,756,2,758
+P3,3,4,3,4,64,1,65,F5,1,1,Not applicable,Not applicable,Not applicable,756,3,759
+P3,3,4,3,4,64,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,756,4,760
+P3,3,4,3,4,64,1,55,G4,2,2,Not applicable,Not applicable,Not applicable,756,6,762
+P3,3,4,3,4,64,1,58,A#/Bb4,2,2,Not applicable,Not applicable,Not applicable,756,8,764
+P3,3,4,3,4,64,1,57,A4,2,2,Not applicable,Not applicable,Not applicable,756,10,766
+P3,3,4,3,4,65,1,54,F#/Gb4,12,12,Not applicable,Not applicable,Not applicable,768,0,768
+P4,4,4,3,4,1,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,0,0,0
+P4,4,4,3,4,1,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,0,2,2
+P4,4,4,3,4,1,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,0,4,4
+P4,4,4,3,4,1,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,0,6,6
+P4,4,4,3,4,1,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,0,8,8
+P4,4,4,3,4,1,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,0,10,10
+P4,4,4,3,4,2,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,12,0,12
+P4,4,4,3,4,2,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,12,2,14
+P4,4,4,3,4,2,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,12,4,16
+P4,4,4,3,4,2,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,12,6,18
+P4,4,4,3,4,2,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,12,8,20
+P4,4,4,3,4,2,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,12,10,22
+P4,4,4,3,4,3,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,24,0,24
+P4,4,4,3,4,3,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,24,2,26
+P4,4,4,3,4,3,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,24,4,28
+P4,4,4,3,4,3,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,24,6,30
+P4,4,4,3,4,3,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,24,8,32
+P4,4,4,3,4,3,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,24,10,34
+P4,4,4,3,4,4,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,36,0,36
+P4,4,4,3,4,4,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,36,2,38
+P4,4,4,3,4,4,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,36,4,40
+P4,4,4,3,4,4,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,36,6,42
+P4,4,4,3,4,4,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,36,8,44
+P4,4,4,3,4,4,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,36,10,46
+P4,4,4,3,4,5,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,48,0,48
+P4,4,4,3,4,5,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,48,2,50
+P4,4,4,3,4,5,1,29,F2,2,2,Not applicable,Not applicable,Not applicable,48,4,52
+P4,4,4,3,4,5,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,48,6,54
+P4,4,4,3,4,5,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,48,8,56
+P4,4,4,3,4,5,1,29,F2,2,2,Not applicable,Not applicable,Not applicable,48,10,58
+P4,4,4,3,4,6,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,60,0,60
+P4,4,4,3,4,6,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,60,2,62
+P4,4,4,3,4,6,1,28,E2,2,2,Not applicable,Not applicable,Not applicable,60,4,64
+P4,4,4,3,4,6,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,60,6,66
+P4,4,4,3,4,6,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,60,8,68
+P4,4,4,3,4,6,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,60,10,70
+P4,4,4,3,4,7,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,72,0,72
+P4,4,4,3,4,7,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,72,2,74
+P4,4,4,3,4,7,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,72,4,76
+P4,4,4,3,4,7,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,72,6,78
+P4,4,4,3,4,7,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,72,8,80
+P4,4,4,3,4,7,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,72,10,82
+P4,4,4,3,4,8,1,32,G#/Ab2,2,2,Not applicable,Not applicable,Not applicable,84,0,84
+P4,4,4,3,4,8,1,35,B2,2,2,Not applicable,Not applicable,Not applicable,84,2,86
+P4,4,4,3,4,8,1,28,E2,2,2,Not applicable,Not applicable,Not applicable,84,4,88
+P4,4,4,3,4,8,1,32,G#/Ab2,2,2,Not applicable,Not applicable,Not applicable,84,6,90
+P4,4,4,3,4,8,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,84,8,92
+P4,4,4,3,4,8,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,84,10,94
+P4,4,4,3,4,9,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,96,0,96
+P4,4,4,3,4,9,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,96,2,98
+P4,4,4,3,4,9,1,44,G#/Ab3,2,2,Not applicable,Not applicable,Not applicable,96,4,100
+P4,4,4,3,4,9,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,96,6,102
+P4,4,4,3,4,9,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,96,8,104
+P4,4,4,3,4,9,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,96,10,106
+P4,4,4,3,4,10,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,108,0,108
+P4,4,4,3,4,10,1,53,F4,2,2,Not applicable,Not applicable,Not applicable,108,2,110
+P4,4,4,3,4,10,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,108,4,112
+P4,4,4,3,4,10,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,108,6,114
+P4,4,4,3,4,10,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,108,8,116
+P4,4,4,3,4,10,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,108,10,118
+P4,4,4,3,4,11,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,120,0,120
+P4,4,4,3,4,11,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,120,2,122
+P4,4,4,3,4,11,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,120,4,124
+P4,4,4,3,4,11,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,120,6,126
+P4,4,4,3,4,11,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,120,8,128
+P4,4,4,3,4,11,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,120,10,130
+P4,4,4,3,4,12,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,132,0,132
+P4,4,4,3,4,12,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,132,2,134
+P4,4,4,3,4,12,1,44,G#/Ab3,2,2,Not applicable,Not applicable,Not applicable,132,4,136
+P4,4,4,3,4,12,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,132,6,138
+P4,4,4,3,4,12,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,132,8,140
+P4,4,4,3,4,12,1,52,E4,2,2,Not applicable,Not applicable,Not applicable,132,10,142
+P4,4,4,3,4,13,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,144,0,144
+P4,4,4,3,4,13,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,144,2,146
+P4,4,4,3,4,13,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,144,4,148
+P4,4,4,3,4,13,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,144,6,150
+P4,4,4,3,4,13,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,144,8,152
+P4,4,4,3,4,13,1,35,B2,2,2,Not applicable,Not applicable,Not applicable,144,10,154
+P4,4,4,3,4,14,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,156,0,156
+P4,4,4,3,4,14,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,156,2,158
+P4,4,4,3,4,14,1,40,E3,4,4,Not applicable,Not applicable,Not applicable,156,4,160
+P4,4,4,3,4,14,1,28,E2,4,4,Not applicable,Not applicable,Not applicable,156,8,164
+P4,4,4,3,4,15,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,168,0,168
+P4,4,4,3,4,15,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,168,2,170
+P4,4,4,3,4,15,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,168,4,172
+P4,4,4,3,4,15,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,168,6,174
+P4,4,4,3,4,15,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,168,8,176
+P4,4,4,3,4,15,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,168,10,178
+P4,4,4,3,4,16,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,180,0,180
+P4,4,4,3,4,16,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,180,2,182
+P4,4,4,3,4,16,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,180,4,184
+P4,4,4,3,4,16,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,180,6,186
+P4,4,4,3,4,16,1,24,C2,2,2,Not applicable,Not applicable,Not applicable,180,8,188
+P4,4,4,3,4,16,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,180,10,190
+P4,4,4,3,4,17,1,29,F2,2,2,Not applicable,Not applicable,Not applicable,192,0,192
+P4,4,4,3,4,17,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,192,2,194
+P4,4,4,3,4,17,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,192,4,196
+P4,4,4,3,4,17,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,192,6,198
+P4,4,4,3,4,17,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,192,8,200
+P4,4,4,3,4,17,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,192,10,202
+P4,4,4,3,4,18,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,204,0,204
+P4,4,4,3,4,18,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,204,2,206
+P4,4,4,3,4,18,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,204,4,208
+P4,4,4,3,4,18,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,204,6,210
+P4,4,4,3,4,18,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,204,8,212
+P4,4,4,3,4,18,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,204,10,214
+P4,4,4,3,4,19,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,216,0,216
+P4,4,4,3,4,19,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,216,2,218
+P4,4,4,3,4,19,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,216,4,220
+P4,4,4,3,4,19,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,216,6,222
+P4,4,4,3,4,19,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,216,8,224
+P4,4,4,3,4,19,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,216,10,226
+P4,4,4,3,4,20,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,228,0,228
+P4,4,4,3,4,20,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,228,2,230
+P4,4,4,3,4,20,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,228,4,232
+P4,4,4,3,4,20,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,228,6,234
+P4,4,4,3,4,20,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,228,8,236
+P4,4,4,3,4,20,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,228,10,238
+P4,4,4,3,4,21,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,240,0,240
+P4,4,4,3,4,21,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,240,2,242
+P4,4,4,3,4,21,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,240,4,244
+P4,4,4,3,4,21,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,240,6,246
+P4,4,4,3,4,21,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,240,8,248
+P4,4,4,3,4,21,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,240,10,250
+P4,4,4,3,4,22,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,252,0,252
+P4,4,4,3,4,22,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,252,2,254
+P4,4,4,3,4,22,1,43,G3,4,4,Not applicable,Not applicable,Not applicable,252,4,256
+P4,4,4,3,4,22,1,31,G2,4,4,Not applicable,Not applicable,Not applicable,252,8,260
+P4,4,4,3,4,23,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,264,0,264
+P4,4,4,3,4,23,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,264,2,266
+P4,4,4,3,4,23,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,264,4,268
+P4,4,4,3,4,23,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,264,6,270
+P4,4,4,3,4,23,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,264,8,272
+P4,4,4,3,4,23,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,264,10,274
+P4,4,4,3,4,24,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,276,0,276
+P4,4,4,3,4,24,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,276,2,278
+P4,4,4,3,4,24,1,35,B2,2,2,Not applicable,Not applicable,Not applicable,276,4,280
+P4,4,4,3,4,24,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,276,6,282
+P4,4,4,3,4,24,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,276,8,284
+P4,4,4,3,4,24,1,35,B2,2,2,Not applicable,Not applicable,Not applicable,276,10,286
+P4,4,4,3,4,25,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,288,0,288
+P4,4,4,3,4,25,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,288,2,290
+P4,4,4,3,4,25,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,288,4,292
+P4,4,4,3,4,25,1,30,F#/Gb2,2,2,Not applicable,Not applicable,Not applicable,288,6,294
+P4,4,4,3,4,25,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,288,8,296
+P4,4,4,3,4,25,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,288,10,298
+P4,4,4,3,4,26,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,300,0,300
+P4,4,4,3,4,26,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,300,2,302
+P4,4,4,3,4,26,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,300,4,304
+P4,4,4,3,4,26,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,300,6,306
+P4,4,4,3,4,26,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,300,8,308
+P4,4,4,3,4,26,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,300,10,310
+P4,4,4,3,4,27,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,312,0,312
+P4,4,4,3,4,27,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,312,2,314
+P4,4,4,3,4,27,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,312,4,316
+P4,4,4,3,4,27,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,312,6,318
+P4,4,4,3,4,27,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,312,8,320
+P4,4,4,3,4,27,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,312,10,322
+P4,4,4,3,4,28,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,324,0,324
+P4,4,4,3,4,28,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,324,2,326
+P4,4,4,3,4,28,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,324,4,328
+P4,4,4,3,4,28,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,324,6,330
+P4,4,4,3,4,28,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,324,8,332
+P4,4,4,3,4,28,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,324,10,334
+P4,4,4,3,4,29,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,336,0,336
+P4,4,4,3,4,29,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,336,2,338
+P4,4,4,3,4,29,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,336,4,340
+P4,4,4,3,4,29,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,336,6,342
+P4,4,4,3,4,29,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,336,8,344
+P4,4,4,3,4,29,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,336,10,346
+P4,4,4,3,4,30,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,348,0,348
+P4,4,4,3,4,30,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,348,2,350
+P4,4,4,3,4,30,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,348,4,352
+P4,4,4,3,4,30,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,348,6,354
+P4,4,4,3,4,30,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,348,8,356
+P4,4,4,3,4,30,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,348,10,358
+P4,4,4,3,4,31,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,360,0,360
+P4,4,4,3,4,31,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,360,2,362
+P4,4,4,3,4,31,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,360,4,364
+P4,4,4,3,4,31,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,360,6,366
+P4,4,4,3,4,31,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,360,8,368
+P4,4,4,3,4,31,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,360,10,370
+P4,4,4,3,4,32,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,372,0,372
+P4,4,4,3,4,32,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,372,2,374
+P4,4,4,3,4,32,1,41,F3,4,4,Not applicable,Not applicable,Not applicable,372,4,376
+P4,4,4,3,4,32,1,29,F2,4,4,Not applicable,Not applicable,Not applicable,372,8,380
+P4,4,4,3,4,33,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,384,0,384
+P4,4,4,3,4,33,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,384,2,386
+P4,4,4,3,4,33,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,384,4,388
+P4,4,4,3,4,33,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,384,6,390
+P4,4,4,3,4,33,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,384,8,392
+P4,4,4,3,4,33,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,384,10,394
+P4,4,4,3,4,34,1,29,F2,2,2,Not applicable,Not applicable,Not applicable,396,0,396
+P4,4,4,3,4,34,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,396,2,398
+P4,4,4,3,4,34,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,396,4,400
+P4,4,4,3,4,34,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,396,6,402
+P4,4,4,3,4,34,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,396,8,404
+P4,4,4,3,4,34,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,396,10,406
+P4,4,4,3,4,35,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,408,0,408
+P4,4,4,3,4,35,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,408,2,410
+P4,4,4,3,4,35,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,408,4,412
+P4,4,4,3,4,35,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,408,6,414
+P4,4,4,3,4,35,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,408,8,416
+P4,4,4,3,4,35,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,408,10,418
+P4,4,4,3,4,36,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,420,0,420
+P4,4,4,3,4,36,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,420,2,422
+P4,4,4,3,4,36,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,420,4,424
+P4,4,4,3,4,36,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,420,6,426
+P4,4,4,3,4,36,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,420,8,428
+P4,4,4,3,4,36,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,420,10,430
+P4,4,4,3,4,37,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,432,0,432
+P4,4,4,3,4,37,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,432,2,434
+P4,4,4,3,4,37,1,42,F#/Gb3,2,2,Not applicable,Not applicable,Not applicable,432,4,436
+P4,4,4,3,4,37,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,432,6,438
+P4,4,4,3,4,37,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,432,8,440
+P4,4,4,3,4,37,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,432,10,442
+P4,4,4,3,4,38,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,444,0,444
+P4,4,4,3,4,38,1,51,D#/Eb4,2,2,Not applicable,Not applicable,Not applicable,444,2,446
+P4,4,4,3,4,38,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,444,4,448
+P4,4,4,3,4,38,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,444,6,450
+P4,4,4,3,4,38,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,444,8,452
+P4,4,4,3,4,38,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,444,10,454
+P4,4,4,3,4,39,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,456,0,456
+P4,4,4,3,4,39,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,456,2,458
+P4,4,4,3,4,39,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,456,4,460
+P4,4,4,3,4,39,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,456,6,462
+P4,4,4,3,4,39,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,456,8,464
+P4,4,4,3,4,39,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,456,10,466
+P4,4,4,3,4,40,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,468,0,468
+P4,4,4,3,4,40,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,468,2,470
+P4,4,4,3,4,40,1,42,F#/Gb3,2,2,Not applicable,Not applicable,Not applicable,468,4,472
+P4,4,4,3,4,40,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,468,6,474
+P4,4,4,3,4,40,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,468,8,476
+P4,4,4,3,4,40,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,468,10,478
+P4,4,4,3,4,41,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,480,0,480
+P4,4,4,3,4,41,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,480,2,482
+P4,4,4,3,4,41,1,39,D#/Eb3,2,2,Not applicable,Not applicable,Not applicable,480,4,484
+P4,4,4,3,4,41,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,480,6,486
+P4,4,4,3,4,41,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,480,8,488
+P4,4,4,3,4,41,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,480,10,490
+P4,4,4,3,4,42,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,492,0,492
+P4,4,4,3,4,42,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,492,2,494
+P4,4,4,3,4,42,1,38,D3,4,4,Not applicable,Not applicable,Not applicable,492,4,496
+P4,4,4,3,4,42,1,26,D2,4,4,Not applicable,Not applicable,Not applicable,492,8,500
+P4,4,4,3,4,43,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,504,0,504
+P4,4,4,3,4,43,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,504,2,506
+P4,4,4,3,4,43,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,504,4,508
+P4,4,4,3,4,43,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,504,6,510
+P4,4,4,3,4,43,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,504,8,512
+P4,4,4,3,4,43,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,504,10,514
+P4,4,4,3,4,44,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,516,0,516
+P4,4,4,3,4,44,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,516,2,518
+P4,4,4,3,4,44,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,516,4,520
+P4,4,4,3,4,44,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,516,6,522
+P4,4,4,3,4,44,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,516,8,524
+P4,4,4,3,4,44,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,516,10,526
+P4,4,4,3,4,45,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,528,0,528
+P4,4,4,3,4,45,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,528,2,530
+P4,4,4,3,4,45,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,528,4,532
+P4,4,4,3,4,45,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,528,6,534
+P4,4,4,3,4,45,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,528,8,536
+P4,4,4,3,4,45,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,528,10,538
+P4,4,4,3,4,46,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,540,0,540
+P4,4,4,3,4,46,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,540,2,542
+P4,4,4,3,4,46,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,540,4,544
+P4,4,4,3,4,46,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,540,6,546
+P4,4,4,3,4,46,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,540,8,548
+P4,4,4,3,4,46,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,540,10,550
+P4,4,4,3,4,47,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,552,0,552
+P4,4,4,3,4,47,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,552,2,554
+P4,4,4,3,4,47,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,552,4,556
+P4,4,4,3,4,47,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,552,6,558
+P4,4,4,3,4,47,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,552,8,560
+P4,4,4,3,4,47,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,552,10,562
+P4,4,4,3,4,48,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,564,0,564
+P4,4,4,3,4,48,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,564,2,566
+P4,4,4,3,4,48,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,564,4,568
+P4,4,4,3,4,48,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,564,6,570
+P4,4,4,3,4,48,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,564,8,572
+P4,4,4,3,4,48,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,564,10,574
+P4,4,4,3,4,49,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,576,0,576
+P4,4,4,3,4,49,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,576,2,578
+P4,4,4,3,4,49,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,576,4,580
+P4,4,4,3,4,49,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,576,6,582
+P4,4,4,3,4,49,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,576,8,584
+P4,4,4,3,4,49,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,576,10,586
+P4,4,4,3,4,50,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,588,0,588
+P4,4,4,3,4,50,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,588,2,590
+P4,4,4,3,4,50,1,42,F#/Gb3,2,2,Not applicable,Not applicable,Not applicable,588,4,592
+P4,4,4,3,4,50,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,588,6,594
+P4,4,4,3,4,50,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,588,8,596
+P4,4,4,3,4,50,1,42,F#/Gb3,2,2,Not applicable,Not applicable,Not applicable,588,10,598
+P4,4,4,3,4,51,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,600,0,600
+P4,4,4,3,4,51,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,600,2,602
+P4,4,4,3,4,51,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,600,4,604
+P4,4,4,3,4,51,1,50,D4,2,2,Not applicable,Not applicable,Not applicable,600,6,606
+P4,4,4,3,4,51,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,600,8,608
+P4,4,4,3,4,51,1,47,B3,2,2,Not applicable,Not applicable,Not applicable,600,10,610
+P4,4,4,3,4,52,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,612,0,612
+P4,4,4,3,4,52,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,612,2,614
+P4,4,4,3,4,52,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,612,4,616
+P4,4,4,3,4,52,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,612,6,618
+P4,4,4,3,4,52,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,612,8,620
+P4,4,4,3,4,52,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,612,10,622
+P4,4,4,3,4,53,1,29,F2,2,2,Not applicable,Not applicable,Not applicable,624,0,624
+P4,4,4,3,4,53,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,624,2,626
+P4,4,4,3,4,53,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,624,4,628
+P4,4,4,3,4,53,1,48,C4,2,2,Not applicable,Not applicable,Not applicable,624,6,630
+P4,4,4,3,4,53,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,624,8,632
+P4,4,4,3,4,53,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,624,10,634
+P4,4,4,3,4,54,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,636,0,636
+P4,4,4,3,4,54,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,636,2,638
+P4,4,4,3,4,54,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,636,4,640
+P4,4,4,3,4,54,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,636,6,642
+P4,4,4,3,4,54,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,636,8,644
+P4,4,4,3,4,54,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,636,10,646
+P4,4,4,3,4,55,1,28,E2,2,2,Not applicable,Not applicable,Not applicable,648,0,648
+P4,4,4,3,4,55,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,648,2,650
+P4,4,4,3,4,55,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,648,4,652
+P4,4,4,3,4,55,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,648,6,654
+P4,4,4,3,4,55,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,648,8,656
+P4,4,4,3,4,55,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,648,10,658
+P4,4,4,3,4,56,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,660,0,660
+P4,4,4,3,4,56,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,660,2,662
+P4,4,4,3,4,56,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,660,4,664
+P4,4,4,3,4,56,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,660,6,666
+P4,4,4,3,4,56,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,660,8,668
+P4,4,4,3,4,56,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,660,10,670
+P4,4,4,3,4,57,1,26,D2,2,2,Not applicable,Not applicable,Not applicable,672,0,672
+P4,4,4,3,4,57,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,672,2,674
+P4,4,4,3,4,57,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,672,4,676
+P4,4,4,3,4,57,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,672,6,678
+P4,4,4,3,4,57,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,672,8,680
+P4,4,4,3,4,57,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,672,10,682
+P4,4,4,3,4,58,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,684,0,684
+P4,4,4,3,4,58,1,46,A#/Bb3,2,2,Not applicable,Not applicable,Not applicable,684,2,686
+P4,4,4,3,4,58,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,684,4,688
+P4,4,4,3,4,58,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,684,6,690
+P4,4,4,3,4,58,1,36,C3,2,2,Not applicable,Not applicable,Not applicable,684,8,692
+P4,4,4,3,4,58,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,684,10,694
+P4,4,4,3,4,59,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,696,0,696
+P4,4,4,3,4,59,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,696,2,698
+P4,4,4,3,4,59,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,696,4,700
+P4,4,4,3,4,59,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,696,6,702
+P4,4,4,3,4,59,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,696,8,704
+P4,4,4,3,4,59,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,696,10,706
+P4,4,4,3,4,60,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,708,0,708
+P4,4,4,3,4,60,1,43,G3,2,2,Not applicable,Not applicable,Not applicable,708,2,710
+P4,4,4,3,4,60,1,37,C#/Db3,2,2,Not applicable,Not applicable,Not applicable,708,4,712
+P4,4,4,3,4,60,1,40,E3,2,2,Not applicable,Not applicable,Not applicable,708,6,714
+P4,4,4,3,4,60,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,708,8,716
+P4,4,4,3,4,60,1,45,A3,2,2,Not applicable,Not applicable,Not applicable,708,10,718
+P4,4,4,3,4,61,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,720,0,720
+P4,4,4,3,4,61,1,41,F3,2,2,Not applicable,Not applicable,Not applicable,720,2,722
+P4,4,4,3,4,61,1,34,A#/Bb2,2,2,Not applicable,Not applicable,Not applicable,720,4,724
+P4,4,4,3,4,61,1,38,D3,2,2,Not applicable,Not applicable,Not applicable,720,6,726
+P4,4,4,3,4,61,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,720,8,728
+P4,4,4,3,4,61,1,28,E2,2,2,Not applicable,Not applicable,Not applicable,720,10,730
+P4,4,4,3,4,62,1,33,A2,2,2,Not applicable,Not applicable,Not applicable,732,0,732
+P4,4,4,3,4,62,1,31,G2,2,2,Not applicable,Not applicable,Not applicable,732,2,734
+P4,4,4,3,4,62,1,33,A2,8,8,Not applicable,Not applicable,Not applicable,732,4,736
+P4,4,4,3,4,63,1,34,A#/Bb2,8,8,Not applicable,Not applicable,Not applicable,744,0,744
+P4,4,4,3,4,63,1,35,B2,4,4,Not applicable,Not applicable,Not applicable,744,8,752
+P4,4,4,3,4,64,1,35,B2,4,4,Not applicable,Not applicable,Not applicable,756,0,756
+P4,4,4,3,4,64,1,33,A2,8,8,Not applicable,Not applicable,Not applicable,756,4,760
+P4,4,4,3,4,65,1,26,D2,12,12,Not applicable,Not applicable,Not applicable,768,0,768

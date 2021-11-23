@@ -1,0 +1,23 @@
+{
+    "id": "771C155C",
+    "path": "C:/JamiesFiles/DjangoProjects/StelupaProject/StelupaServer/shinyapps/note-search-app/modules/harmony_filter_ui.R",
+    "project_path": "modules/harmony_filter_ui.R",
+    "type": "r_source",
+    "hash": "4145007344",
+    "contents": "",
+    "dirty": false,
+    "created": 1610599504985.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1580448698,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1580448698,
+    "read_only": false,
+    "read_only_alternatives": []
+}

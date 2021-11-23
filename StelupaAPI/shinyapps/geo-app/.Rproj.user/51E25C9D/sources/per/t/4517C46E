@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574657185060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4517C46E",
+    "lastKnownWriteTime" : 1574657191,
+    "last_content_update" : 1574657191172,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/geo-app/settings/globals.R",
+    "project_path" : "settings/globals.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579223505561.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2456520946",
+    "id" : "21EDA288",
+    "lastKnownWriteTime" : 1570702758,
+    "last_content_update" : 1570702758,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/note-search-app/components/search_filters/search_side_panel_template.R",
+    "project_path" : "components/search_filters/search_side_panel_template.R",
+    "properties" : {
+        "cursorPosition" : "61,61",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

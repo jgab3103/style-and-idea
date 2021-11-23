@@ -1,0 +1,61 @@
+<br/>
+<strong id="apps_and_notebooks">Data specification::apps_and_notebooks</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/apps-and-notebooks-api/v1/apps-and-notebooks/">stelupa/apps-and-notebooks-api/v1/apps-and-notebooks/</a>
+</div><br/>
+<div>
+  The app and notebook API endpoint hold information about the apps and notebooks held on this site. Attributes include:
+</div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>title</td>
+    <td>varchar</td>
+    <td>Name of app or notebook.</td>
+  </tr>
+  <tr>
+    <td>release_date</td>
+    <td>date</td>
+    <td>Date app or notebook first published.</td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td>text</td>
+    <td>Brief description of the app or notebook.</td>
+  </tr>
+  <tr>
+    <td>resource_location</td>
+    <td>varchar</td>
+    <td>URL location where the app or notebook can be found.</td>
+  </tr>
+  <tr>
+    <td>version</td>
+    <td>varchar</td>
+    <td>Version number of the app or notebook.</td>
+  </tr>
+
+  <tr>
+    <td>type</td>
+    <td>varchar</td>
+    <td>Indication if this is an app or a notebook.</td>
+  </tr>
+
+  <tr>
+    <td>tags</td>
+    <td>array</td>
+    <td>An array of integers to denoting the many to many relationship between and apps and notebooks and tags.</td>
+  </tr>
+  </tbody>
+  </table>
+
+
+<br/>

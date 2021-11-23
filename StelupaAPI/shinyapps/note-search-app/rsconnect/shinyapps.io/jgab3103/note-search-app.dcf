@@ -1,0 +1,12 @@
+name: note-search-app
+title: note-search-app
+username:
+account: jgab3103
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1322561
+bundleId: 2495995
+url: https://jgab3103.shinyapps.io/note-search-app/
+when: 1570957760.63201
+asMultiple: FALSE
+asStatic: FALSE

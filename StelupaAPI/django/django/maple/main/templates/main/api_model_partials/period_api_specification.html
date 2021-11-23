@@ -1,0 +1,68 @@
+<br/>
+<strong id="period">Data specification::period</strong>
+<hr/>
+<div>API endpoint: <a href="/musicians-api/v1/periods/">stelupa/musicians-api/v1/periods/</a>
+</div><br/>
+<div>
+  The period API endpoint holds data regarding known periods in copmosers and performers lives, that often appear in related scholarship (for example, Stravinsky's Neo classical period, between 1920 and 1954). Attributes include:
+</div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>musician</td>
+    <td>integer</td>
+    <td>Primary key of related <a href="#">musician</a></td>
+  </tr>
+  <tr>
+    <td>start_date</td>
+    <td>date</td>
+    <td>Date indicating start of a period in a composer's or performer's life</td>
+  </tr>
+  <tr>
+    <td>end_date</td>
+    <td>date</td>
+    <td>Date indicating end of a period in a composer's or performer's life </td>
+  </tr>
+  <tr>
+    <td>period_name</td>
+    <td>varchar</td>
+    <td>String description of the period</td>
+  </tr>
+  <tr>
+    <td>period_description</td>
+    <td>text</td>
+    <td>Free text information about the period</td>
+  </tr>
+  <tr>
+    <td>location</td>
+    <td>varchar</td>
+    <td>Location composer or performer was predominantly based in during this period. Null if not appliable.</td>
+  </tr>
+  <tr>
+    <td>location_based_in_latitude</td>
+    <td>float</td>
+    <td>Decimal latitude of the location composer was predominantly basedin during this period. Null if not applicable.</td>
+  </tr>
+  <tr>
+    <td>location_based_in_longitude</td>
+    <td>float</td>
+    <td>Decimal longitudee of the location composer was predominantly basedin during this period. Null if not applicable.</td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if record has been verified.</td>
+  </tr>
+  </tbody>
+  </table>
+
+
+<br/>

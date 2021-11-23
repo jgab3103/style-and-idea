@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579223411689.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3695017754",
+    "id" : "CE281D28",
+    "lastKnownWriteTime" : 1570941800,
+    "last_content_update" : 1570941800,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/note-search-app/settings.R",
+    "project_path" : "settings.R",
+    "properties" : {
+        "cursorPosition" : "10,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

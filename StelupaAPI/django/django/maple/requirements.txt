@@ -1,0 +1,9 @@
+Django>=2.0,<3.0
+psycopg2-binary
+djangorestframework 
+markdown
+django-filter
+django-rest-swagger
+django-markdownx==2.0.28
+
+

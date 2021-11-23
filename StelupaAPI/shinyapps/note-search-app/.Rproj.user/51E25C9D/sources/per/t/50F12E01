@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572743692527.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4120762062",
+    "id" : "50F12E01",
+    "lastKnownWriteTime" : 1572743721,
+    "last_content_update" : 1572743721616,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/note-search-app/www/js/lodash.js",
+    "project_path" : "www/js/lodash.js",
+    "properties" : {
+        "cursorPosition" : "136,195",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "js"
+}

@@ -1,0 +1,46 @@
+<br/>
+<strong id="recording">Data specification::recording</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/scores-api/v1/recordings/">stelupa/scores-api/v1/recordings/</a>
+</div><br/>
+<div>
+  The recording API endpoint has data regarding specific recordings related to works. This is used to hold information on well known recordings (e.g. Bill Evans Trio, Live at the Village Vanguage), or hold public domain copyright information for the recordings made available through the <a href="#">score explorer</a> app.
+</div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>work</td>
+    <td>integer</td>
+    <td>$0.87</td>
+  </tr>
+  <tr>
+    <td>resource_location</td>
+    <td>varchar</td>
+    <td>URL location of the recording.</td>
+  </tr>
+  <tr>
+    <td>notes</td>
+    <td>text</td>
+    <td>Free text notes regarding the recording. This includes copywright information where applicable.</td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if record has been verified.</td>
+  </tr>
+
+
+  </tbody>
+  </table>
+
+
+<br/>

@@ -1,0 +1,104 @@
+<br/>
+<strong id="musician">Data specification::musician</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/musicians-api/v1/musicians/">stelupa/musicians-api/v1/musicians/</a>
+</div>
+<br/>
+<div>
+The musician API endpoint holds data about composers and performerns, including name and demographic details. Attributes include:</div>
+<div>
+  <table>
+    <thead>
+      <tr>
+          <th class="thin">Attribute name</th>
+          <th class="thin">Data type</th>
+          <th class="thin">Description</th>
+      </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td>first_name</td>
+      <td>varchar</td>
+      <td>First name(s) of composer or performer.</td>
+    </tr>
+    <tr>
+      <td>family_name</td>
+      <td>varchar</td>
+      <td>Family name of composer or performer.</td>
+    </tr>
+    <tr>
+      <td>birth_date</td>
+      <td>date</td>
+      <td>Date of birth of composer or performer.</td>
+    </tr>
+
+    <tr>
+      <td>death_date</td>
+      <td>date</td>
+      <td>Date of death of composer or performer. Null if not applicable.</td>
+    </tr>
+    <tr>
+      <td>birth_nationality</td>
+      <td>varchar</td>
+      <td>Nationality or citizenship of composer or performer at date of birth.</td>
+    </tr>
+    <tr>
+      <td>death_nationality</td>
+      <td>varchar</td>
+      <td>Nationality or citizenship of composer or performer at date of death. Null if not applicable.</td>
+    </tr>
+    <tr>
+      <td>musician_type</td>
+      <td>varchar</td>
+      <td>General category denoting type of composer or performer (e.g. Western Classical, Modern Jazz, etc.). </td>
+    </tr>
+    <tr>
+      <td>primary_instrument</td>
+      <td>varchar</td>
+      <td>Predominant instrument played by the composer or performer. Null if not applicable.</td>
+    </tr>
+    <tr>
+      <td>birth_location</td>
+      <td>varchar</td>
+      <td>Location of birth of composer or performer (e.g. Berlin).</td>
+    </tr>
+    <tr>
+      <td>birth_location_latitude</td>
+      <td>float</td>
+      <td>Decimal latitude of location of birth of composer or performer.</td>
+    </tr>
+    <tr>
+      <td>birth_location_longitude</td>
+      <td>float</td>
+      <td>Decimal longitude of location of birth of composer or performer.</td>
+    </tr>
+    <tr>
+      <td>death_location</td>
+      <td>varchar</td>
+      <td>Location of death of composer or performer. Null if not applicable.</td>
+    </tr>
+    <tr>
+      <td>death_location_latitude</td>
+      <td>float</td>
+      <td>Decimal latitude of location of death of composer or performer. Null if not applicable.</td>
+    </tr>
+    <tr>
+      <td>death_location_longitude</td>d
+      <td>floatp</td>
+      <td>Decimal longitude of location of death of composer or performer. Null if not applicable.</td>
+    </tr>
+    <tr>
+      <td>country_of_predominant_residency</td>
+      <td>varchar</td>
+      <td>Country of predominant residency of composer or performer.</td>
+    </tr>
+    <tr>
+      <td>verified</td>
+      <td>boolean</td>
+      <td>True if record has been verified.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<br/>

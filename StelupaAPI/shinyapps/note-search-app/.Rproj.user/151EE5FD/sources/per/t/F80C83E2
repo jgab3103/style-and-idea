@@ -1,0 +1,23 @@
+{
+    "id": "F80C83E2",
+    "path": "C:/JamiesFiles/DjangoProjects/StelupaProject/StelupaServer/shinyapps/note-search-app/modules/summary_results_server.R",
+    "project_path": "modules/summary_results_server.R",
+    "type": "r_source",
+    "hash": "2966018127",
+    "contents": "",
+    "dirty": false,
+    "created": 1608626790498.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1580448704,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1580448704,
+    "read_only": false,
+    "read_only_alternatives": []
+}

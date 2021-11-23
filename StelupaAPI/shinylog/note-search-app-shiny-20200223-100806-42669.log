@@ -1,0 +1,4 @@
+Error in library(r2d3) : there is no package called ‘r2d3’
+Calls: runApp ... sourceUTF8 -> eval -> eval -> ..stacktraceon.. -> library
+Execution halted
+

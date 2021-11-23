@@ -1,0 +1,59 @@
+{% extends "main/submit_data_partials/submit_data_base.html" %}
+{% load static %}
+
+
+{% block submit_data_filter %}
+  {% include "main/submit_data_partials/submit_data_filter.html" %}
+{% endblock %}
+
+{% block submit_musician_data %}
+  {% include "main/submit_data_partials/submit_data_paginator.html" %}
+  <ul class="collapsible" data-collapsible="accordion">
+    {% for record in paginated_records %}
+      <li>
+        <div class="collapsible-header">
+          <div class = "col s6 m6">
+              {{ record.name }} <br/>
+              {{ record.family }} family<br/>
+            </div>
+            <div class = "col s6 m6">
+              Instrument range between {{ record.lowest_midi_pitch}} and {{ record.highest_midi_pitch }}
+              </div>
+
+
+        </div>
+        <div class="collapsible-body">
+          <div class = "row">
+            <div class = "col s12 m12">
+              <strong class="thin">Record detail:</strong> <br/>
+            </div>
+          </div>
+          <div class = "row">
+            <div class = "col s6 m6">
+              <strong>Name:</strong> <br/>
+              <strong>Family:</strong> <br/>
+              <strong>Patch:</strong> <br/>
+              <strong>Is grouping:</strong> <br/>
+              <strong>Is pitched instrument: </strong><br/>
+              <strong>Lowest midi pitch</strong><br/>
+              <strong>Highest midi pitch</strong><br/>
+              <strong>Verified:</strong> <br/>
+
+            </div>
+            <div class = "col s6 m6">
+              {{ record.name}}<br/>
+              {{ record.family}}<br/>
+              {{ record.patch}}<br/>
+              {{ record.is_grouping}} <br/>
+              {{ record.is_pitched_instrument}}<br/>
+              {{ record.lowest_midi_pitch}} <br/>
+              {{ record.highest_midi_pitch}} <br/>
+              {{ record.verified }}<br/>
+
+            </div>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endblock %}

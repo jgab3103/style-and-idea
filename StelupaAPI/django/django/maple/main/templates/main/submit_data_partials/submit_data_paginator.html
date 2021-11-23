@@ -1,0 +1,32 @@
+  <div class = "row">
+  <div class = "col s1 m1">
+
+  </div>
+ {% load url_params_persist %}
+  <div class = "col s10 m10 right-align">
+     {% if paginated_records.has_other_pages %}
+       <ul class="pagination">
+        {% if paginated_records.has_previous %}
+          <li><a href="?{% param_replace page=paginated_records.previous_page_number %}"><i class="material-icons">chevron_left</i></a></li>
+        {% else %}
+         <li class="disabled"><i class="disabled-gray material-icons">chevron_left</i></li>
+       {% endif %}
+
+        {% for i in paginated_records.paginator.page_range %}
+          {% if paginated_records.number == i %}
+            <li class="move-down active #1565c0 blue darken-3">&nbsp;{{ i }}&nbsp;</li>
+          {% else %}
+            <li><a href="?{% param_replace page=i %}">{{ i }}</a></li>
+          {% endif %}
+
+        {% endfor %}
+        {% if paginated_records.has_next %}
+          <li><a href="?{% param_replace page=paginated_records.next_page_number %}"><i class="material-icons">chevron_right</i></a></li>
+        {% else %}
+          <li class="disabled"><i class="disabled-gray material-icons">chevron_right</i></li>
+        {% endif %}
+      </ul>
+      {% endif %}
+  </div>
+
+</div>

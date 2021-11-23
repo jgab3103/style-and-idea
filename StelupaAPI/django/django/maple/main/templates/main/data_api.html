@@ -1,0 +1,83 @@
+{% extends "main/base.html" %}
+
+{% load static %}
+
+{% block content %}
+<!-- <iframe
+frameborder="0"
+scrolling="no"
+class="iframe-config"
+src="http://localhost:3838/app-resources/"></iframe> -->
+<div class="containser">
+
+<div class="row">
+
+</div>
+
+<div class="row">
+  <div class="col m3 s3">
+    <ul class="collection">
+         <li class="collection-item"><strong>Accessing the API</strong></li>
+         <li class="collection-item">&emsp; <a href="#">Obtaining an API key</a></li>
+         <li class="collection-item"><strong>Data specifications</strong></li>
+         <li class="collection-item">&emsp; <a href="#apps_and_ntoebooks">Data specification::apps_and_notebooks</a></li>
+         <li class="collection-item">&emsp; <a href="#collection">Data specification::collection</a></li>
+         <li class="collection-item">&emsp; <a href="#instrument">Data specification::instrument</a></li>
+         <li class="collection-item">&emsp; <a href="#musician">Data specification::musician</a></li>
+         <li class="collection-item">&emsp; <a href="#note">Data specification::note</a></li>
+         <li class="collection-item">&emsp; <a href="#performance">Data specification::performance</a></li>
+         <li class="collection-item">&emsp; <a href="#period">Data specification::period</a></li>
+         <li class="collection-item">&emsp; <a href="#recording">Data specification::recording</a></li>
+         <li class="collection-item">&emsp; <a href="#tag">Data specification::tag</a></li>
+         <li class="collection-item">&emsp; <a href="#text">Data specification::text</a></li>
+         <li class="collection-item">&emsp; <a href="#work">Data specification::work</a></li>
+
+         <li class="collection-item"><strong>Accessing data through the API</strong></li>
+         <li class="collection-item">&emsp; <a href="#">Using Python</a></li>
+         <li class="collection-item">&emsp; <a href="#">Using R</a></li>
+         <li class="collection-item">&emsp; <a href="#">Downloading data via csv</a></li>
+
+
+
+       </ul>
+  </div>
+
+
+
+  <div class="col m9 s9">
+    <h5>Data API</h5>
+    <hr/>
+      <div class="thin">
+          The data API is intended to allow easy access to all data held in Stelupa. Examples of apps built with the data api can be seen on the <a href="#">apps and notebooks</a> page. All details regarding data entities and data types can be seen below along with each API endpoint. You can also access a <a hrer="#">Swagger</a> version of this API <a href="#"> here.</a>
+          <br/><br/>
+          Figure 1. lists the relationships between each of the data entities.
+          <br/><br/>
+
+          <img class = "erd-diagram" src="{% static 'main/img/erd_diagram.png' %}" alt="Hi!" />
+          <br/>
+          <br/>
+          Currently you do not need to use an API key to access this data, and you can call the data directly, though this will be changing soon. Example code for downloading the data  (using Python or R) can be found <a href="#">here</a>. If you would prefer data downladed to other formats (e.g. .csv, .xsxl, .pdf), you can use <a href="#">this app</a>.
+      </div>
+      <br/>
+
+      {% include "main/api_model_partials/apps_and_notebooks_api_specification.html" %}
+      {% include "main/api_model_partials/collection_api_specification.html" %}
+      {% include "main/api_model_partials/instrument_api_specification.html" %}
+      {% include "main/api_model_partials/musician_api_specification.html" %}
+      {% include "main/api_model_partials/note_api_specification.html" %}
+      {% include "main/api_model_partials/performance_api_specification.html" %}
+      {% include "main/api_model_partials/period_api_specification.html" %}
+      {% include "main/api_model_partials/recording_api_specification.html" %}
+      {% include "main/api_model_partials/tags_api_specification.html" %}
+      {% include "main/api_model_partials/text_api_specification.html" %}
+      {% include "main/api_model_partials/work_api_specification.html" %}
+      {% include "main/api_model_partials/using_r_or_python.html" %}
+
+
+    </div>
+
+</div>
+
+</div>
+
+{% endblock %}

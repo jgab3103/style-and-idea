@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574657252337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1457869745",
+    "id" : "98FC8CC9",
+    "lastKnownWriteTime" : 1574657394,
+    "last_content_update" : 1574657394345,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/geo-app/modules/AppContainerUI.R",
+    "project_path" : "modules/AppContainerUI.R",
+    "properties" : {
+        "cursorPosition" : "12,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,73 @@
+{% extends "main/base.html" %}
+{% load static %}
+
+{% block apps_and_notebooks %}
+<div>
+<div class = "row">
+</div>
+<div class="row">
+  <div class="col m3 s3">
+
+
+
+    <ul class="collection">
+      <li class="collection-item">
+
+        <strong>Filter apps and notebooks</strong>
+        <form action="" method="get">
+
+            {{ data_filter.form.as_p }}
+            <br/>
+            <br/>
+            <div class="col s6 m6">
+              <button class="btn-small #1565c0 blue darken-3 waves-effect waves-light"  type="submit" name="action">Filter
+            </button>
+            </div>
+            <div class="col s6 m6">
+              <a class="btn btn-small #1565c0 blue darken-3 waves-effect waves-light" href="{{filter_reset_path}}">Reset</a>
+
+            </div>
+            <br/>
+        </form>
+        <br/>
+
+      </li>
+
+    </ul>
+
+
+  </div>
+  <div class = "col s9 m9">
+
+      {% include "main/submit_data_partials/submit_data_paginator.html" %}
+      <ul class="collection" >
+        {% for record in paginated_records %}
+
+      <li class="collection-item">
+        <div class = "row">
+          <div class = "col s2 m2">
+              <a href="{{record.location}}">{{ record.title}}</a>
+          </div>
+          <div class = "col s4 m4">
+             {{record.description}}
+          </div>
+          <div class = "col s4 m4">
+            {{ record.location}}
+          </div>
+          <div class = "col s2 m2">
+            {{ record.created_by.first_name }} {{ record.created_by.last_name}}
+          </div>
+        </div>
+
+      </li>
+
+        {% endfor %}
+      </ul>
+
+
+
+ </div>
+  </div>
+</div>
+
+{% endblock %}

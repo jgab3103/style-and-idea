@@ -1,0 +1,38 @@
+.iframe-config {
+	height: 690px;
+	width: 1450px;
+}
+
+.project_background {
+	background-color: "steel-blue"
+}
+
+
+.front-page-image {
+	height: 220px;
+	float: left;
+	padding-left:0px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.front-page-image-2 {
+	height: 280px;
+	float: right;
+	padding: 10px;
+}
+
+.front-page-image-3 {
+	height: 400px;
+	float: left;
+	padding: 10px;
+}
+
+
+.erd-diagram {
+	height: 400px;
+}
+.move-down {
+	padding: 4px;
+	color: white;
+}

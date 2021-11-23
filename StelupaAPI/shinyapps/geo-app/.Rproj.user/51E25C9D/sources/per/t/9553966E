@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574657798696.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9553966E",
+    "lastKnownWriteTime" : 1574657812,
+    "last_content_update" : 1574657812236,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/geo-app/data/dataStore.R",
+    "project_path" : "data/dataStore.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,71 @@
+<br/>
+<strong id="performance">Data specification::performance</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/scores-api/v1/performances/">stelupa/scores-api/v1/performances/</a>
+</div><br/>
+<div>
+  The performance API endpoint API has data regarding performances of works. It is most commonly used to capture information about when newly composed works were first performed. Attributes include:
+</div>
+<div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+
+</thead>
+
+<tbody>
+  <tr>
+    <td>work</td>
+    <td>integer</td>
+    <td>Primary key of the related <a href="#">work</a>.</td>
+  </tr>
+  <tr>
+    <td>performance_date</td>
+    <td>date</td>
+    <td>Date when performance took place.</td>
+  </tr>
+  <tr>
+    <td>performance_date_is_approximate</td>
+    <td>boolean</td>
+    <td>True is exact performance date is unknown (i.e the performance year or month may be known, but not the specific date.). If true, the performance date will be set to YYYY-01-01).</td>
+  </tr>
+  <tr>
+    <td>performance_location</td>
+    <td>varchar</td>
+    <td>Location of performance (e.g. San Francisco).</td>
+  </tr>
+  <tr>
+    <td>performance_latitude</td>
+    <td>float</td>
+    <td>Decimal latitude of location of performance.</td>
+  </tr>
+  <tr>
+    <td>performance_longitude</td>
+    <td>float</td>
+    <td>Decimal longitude of location of performance.</td>
+  </tr>
+  <tr>
+    <td>is_premiere_performance</td>
+    <td>boolean</td>
+    <td>True denotes that the performance is a premiere performance (being the first playing of the work).</td>
+  </tr>
+  <tr>
+    <td>notes</td>
+    <td>text</td>
+    <td>Free text notes regarding the performance directions.</td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if record has been verified.</td>
+  </tr>
+  </tbody>
+  </table>
+
+</div>
+<br/>

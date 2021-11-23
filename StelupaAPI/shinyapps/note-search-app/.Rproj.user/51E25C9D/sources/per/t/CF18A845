@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572728130154.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3098186441",
+    "id" : "CF18A845",
+    "lastKnownWriteTime" : 1570928332,
+    "last_content_update" : 1570928332,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/note-search-app/modules/pianoroll_server.R",
+    "project_path" : "modules/pianoroll_server.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 16,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,409 @@
+part_id,part_as_number,divisions,current_beats,current_beats_type,current_measure,voice,midi_number,note_name,duration,converted_duration,is_rest,grace,chord,starting_location_of_current_measure,starting_point_of_note_event,starting_location
+P1,1,24,3,8,2,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,36,0,36
+P1,1,24,3,8,2,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,36,12,48
+P1,1,24,3,8,2,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,36,24,60
+P1,1,24,3,8,3,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,72,0,72
+P1,1,24,3,8,3,1,63,D#/Eb5,3,3,Not applicable,Not applicable,Not applicable,72,9,81
+P1,1,24,3,8,3,1,60,C5,24,24,Not applicable,Not applicable,Not applicable,72,12,84
+P1,1,24,3,8,4,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,108,0,108
+P1,1,24,3,8,4,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,108,12,120
+P1,1,24,3,8,4,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,108,24,132
+P1,1,24,3,8,5,1,63,D#/Eb5,9,9,Not applicable,Not applicable,Not applicable,144,0,144
+P1,1,24,3,8,5,1,62,D5,3,3,Not applicable,Not applicable,Not applicable,144,9,153
+P1,1,24,3,8,5,1,58,A#/Bb4,24,24,Not applicable,Not applicable,Not applicable,144,12,156
+P1,1,24,3,8,6,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,180,0,180
+P1,1,24,3,8,6,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,180,12,192
+P1,1,24,3,8,6,1,58,A#/Bb4,12,12,Not applicable,Not applicable,Not applicable,180,24,204
+P1,1,24,3,8,7,1,60,C5,Not applicable,0,Not applicable,Is grace note,Not applicable,216,0,216
+P1,1,24,3,8,7,1,58,A#/Bb4,9,9,Not applicable,Not applicable,Not applicable,216,0,216
+P1,1,24,3,8,7,1,57,A4,3,3,Not applicable,Not applicable,Not applicable,216,9,225
+P1,1,24,3,8,7,1,57,A4,24,24,Not applicable,Not applicable,Not applicable,216,12,228
+P1,1,24,3,8,8,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,252,0,252
+P1,1,24,3,8,8,1,58,A#/Bb4,12,12,Not applicable,Not applicable,Not applicable,252,12,264
+P1,1,24,3,8,8,1,55,G4,12,12,Not applicable,Not applicable,Not applicable,252,24,276
+P1,1,24,3,8,9,1,57,A4,Not applicable,0,Not applicable,Is grace note,Not applicable,288,0,288
+P1,1,24,3,8,9,1,55,G4,9,9,Not applicable,Not applicable,Not applicable,288,0,288
+P1,1,24,3,8,9,1,53,F4,3,3,Not applicable,Not applicable,Not applicable,288,9,297
+P1,1,24,3,8,9,1,53,F4,24,24,Not applicable,Not applicable,Not applicable,288,12,300
+P1,1,24,3,8,10,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,324,0,324
+P1,1,24,3,8,10,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,324,12,336
+P1,1,24,3,8,10,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,324,24,348
+P1,1,24,3,8,11,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,360,0,360
+P1,1,24,3,8,11,1,63,D#/Eb5,3,3,Not applicable,Not applicable,Not applicable,360,9,369
+P1,1,24,3,8,11,1,60,C5,24,24,Not applicable,Not applicable,Not applicable,360,12,372
+P1,1,24,3,8,12,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,396,0,396
+P1,1,24,3,8,12,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,396,12,408
+P1,1,24,3,8,12,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,396,24,420
+P1,1,24,3,8,13,1,63,D#/Eb5,9,9,Not applicable,Not applicable,Not applicable,432,0,432
+P1,1,24,3,8,13,1,62,D5,3,3,Not applicable,Not applicable,Not applicable,432,9,441
+P1,1,24,3,8,13,1,58,A#/Bb4,24,24,Not applicable,Not applicable,Not applicable,432,12,444
+P1,1,24,3,8,14,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,468,0,468
+P1,1,24,3,8,14,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,468,12,480
+P1,1,24,3,8,14,1,58,A#/Bb4,12,12,Not applicable,Not applicable,Not applicable,468,24,492
+P1,1,24,3,8,15,1,60,C5,Not applicable,0,Not applicable,Is grace note,Not applicable,504,0,504
+P1,1,24,3,8,15,1,58,A#/Bb4,9,9,Not applicable,Not applicable,Not applicable,504,0,504
+P1,1,24,3,8,15,1,57,A4,3,3,Not applicable,Not applicable,Not applicable,504,9,513
+P1,1,24,3,8,15,1,57,A4,24,24,Not applicable,Not applicable,Not applicable,504,12,516
+P1,1,24,3,8,16,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,540,0,540
+P1,1,24,3,8,16,1,58,A#/Bb4,12,12,Not applicable,Not applicable,Not applicable,540,12,552
+P1,1,24,3,8,16,1,55,G4,12,12,Not applicable,Not applicable,Not applicable,540,24,564
+P1,1,24,3,8,17,1,57,A4,Not applicable,0,Not applicable,Is grace note,Not applicable,576,0,576
+P1,1,24,3,8,17,1,55,G4,9,9,Not applicable,Not applicable,Not applicable,576,0,576
+P1,1,24,3,8,17,1,53,F4,3,3,Not applicable,Not applicable,Not applicable,576,9,585
+P1,1,24,3,8,17,1,53,F4,24,24,Not applicable,Not applicable,Not applicable,576,12,588
+P1,1,24,3,8,18,1,60,C5,9,9,Not applicable,Not applicable,Not applicable,612,0,612
+P1,1,24,3,8,18,1,62,D5,3,3,Not applicable,Not applicable,Not applicable,612,9,621
+P1,1,24,3,8,18,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,612,12,624
+P1,1,24,3,8,18,1,60,C5,12,12,Not applicable,Not applicable,Not applicable,612,24,636
+P1,1,24,3,8,19,1,64,E5,Not applicable,0,Not applicable,Is grace note,Not applicable,648,0,648
+P1,1,24,3,8,19,1,57,A4,6,6,Not applicable,Not applicable,Not applicable,648,0,648
+P1,1,24,3,8,19,1,65,F5,6,0,Not applicable,Not applicable,Is chord,648,6,654
+P1,1,24,3,8,19,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,648,6,654
+P1,1,24,3,8,19,1,53,F4,24,24,Not applicable,Not applicable,Not applicable,648,12,660
+P1,1,24,3,8,19,1,57,A4,24,0,Not applicable,Not applicable,Is chord,648,36,684
+P1,1,24,3,8,19,1,60,C5,24,0,Not applicable,Not applicable,Is chord,648,36,684
+P1,1,24,3,8,20,1,62,D5,9,9,Not applicable,Not applicable,Not applicable,684,0,684
+P1,1,24,3,8,20,1,63,D#/Eb5,3,3,Not applicable,Not applicable,Not applicable,684,9,693
+P1,1,24,3,8,20,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,684,12,696
+P1,1,24,3,8,20,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,684,24,708
+P1,1,24,3,8,21,1,66,F#/Gb5,Not applicable,0,Not applicable,Is grace note,Not applicable,720,0,720
+P1,1,24,3,8,21,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,720,0,720
+P1,1,24,3,8,21,1,67,G5,6,0,Not applicable,Not applicable,Is chord,720,6,726
+P1,1,24,3,8,21,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,720,6,726
+P1,1,24,3,8,21,1,55,G4,24,24,Not applicable,Not applicable,Not applicable,720,12,732
+P1,1,24,3,8,21,1,58,A#/Bb4,24,0,Not applicable,Not applicable,Is chord,720,36,756
+P1,1,24,3,8,21,1,62,D5,24,0,Not applicable,Not applicable,Is chord,720,36,756
+P1,1,24,3,8,22,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,756,0,756
+P1,1,24,3,8,22,1,67,G5,3,3,Not applicable,Not applicable,Not applicable,756,9,765
+P1,1,24,3,8,22,1,65,F5,12,12,Not applicable,Not applicable,Not applicable,756,12,768
+P1,1,24,3,8,22,1,65,F5,12,12,Not applicable,Not applicable,Not applicable,756,24,780
+P1,1,24,3,8,23,1,58,A#/Bb4,24,24,Not applicable,Not applicable,Not applicable,792,0,792
+P1,1,24,3,8,23,1,67,G5,24,0,Not applicable,Not applicable,Is chord,792,24,816
+P1,1,24,3,8,23,1,65,F5,12,12,Not applicable,Not applicable,Not applicable,792,24,816
+P1,1,24,3,8,24,1,63,D#/Eb5,4,4,Not applicable,Not applicable,Not applicable,828,0,828
+P1,1,24,3,8,24,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,828,4,832
+P1,1,24,3,8,24,1,63,D#/Eb5,4,4,Not applicable,Not applicable,Not applicable,828,8,836
+P1,1,24,3,8,24,1,62,D5,6,6,Not applicable,Not applicable,Not applicable,828,12,840
+P1,1,24,3,8,24,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,828,18,846
+P1,1,24,3,8,24,1,60,C5,6,6,Not applicable,Not applicable,Not applicable,828,24,852
+P1,1,24,3,8,24,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,828,30,858
+P1,1,24,3,8,25,1,58,A#/Bb4,24,24,Not applicable,Not applicable,Not applicable,864,0,864
+P1,1,24,3,8,25,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,864,24,888
+P1,1,24,3,8,25,1,77,F6,3,3,Not applicable,Not applicable,Not applicable,864,33,897
+P1,1,24,3,8,26,1,77,F6,24,24,Not applicable,Not applicable,Not applicable,900,0,900
+P1,1,24,3,8,26,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,900,24,924
+P1,1,24,3,8,26,1,77,F6,3,3,Not applicable,Not applicable,Not applicable,900,33,933
+P1,1,24,3,8,27,1,77,F6,24,24,Not applicable,Not applicable,Not applicable,936,0,936
+P1,1,24,3,8,27,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,936,24,960
+P1,1,24,3,8,27,1,77,F6,3,3,Not applicable,Not applicable,Not applicable,936,33,969
+P1,1,24,3,8,28,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,972,0,972
+P1,1,24,3,8,28,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,972,4,976
+P1,1,24,3,8,28,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,972,8,980
+P1,1,24,3,8,28,1,74,D6,6,6,Not applicable,Not applicable,Not applicable,972,12,984
+P1,1,24,3,8,28,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,972,18,990
+P1,1,24,3,8,28,1,72,C6,6,6,Not applicable,Not applicable,Not applicable,972,24,996
+P1,1,24,3,8,28,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,972,30,1002
+P1,1,24,3,8,29,1,70,A#/Bb5,24,24,Not applicable,Not applicable,Not applicable,1008,0,1008
+P1,1,24,3,8,29,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,1008,24,1032
+P1,1,24,3,8,29,1,77,F6,3,3,Not applicable,Not applicable,Not applicable,1008,33,1041
+P1,1,24,3,8,30,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,1044,0,1044
+P1,1,24,3,8,30,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,1044,4,1048
+P1,1,24,3,8,30,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,1044,8,1052
+P1,1,24,3,8,30,1,75,D#/Eb6,12,12,Not applicable,Not applicable,Not applicable,1044,12,1056
+P1,1,24,3,8,30,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,1044,24,1068
+P1,1,24,3,8,30,1,77,F6,3,3,Not applicable,Not applicable,Not applicable,1044,33,1077
+P1,1,24,3,8,31,1,74,D6,4,4,Not applicable,Not applicable,Not applicable,1080,0,1080
+P1,1,24,3,8,31,1,65,F5,4,4,Not applicable,Not applicable,Not applicable,1080,4,1084
+P1,1,24,3,8,31,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,1080,8,1088
+P1,1,24,3,8,31,1,74,D6,12,12,Not applicable,Not applicable,Not applicable,1080,12,1092
+P1,1,24,3,8,31,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,1080,24,1104
+P1,1,24,3,8,31,1,77,F6,3,3,Not applicable,Not applicable,Not applicable,1080,33,1113
+P1,1,24,3,8,32,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,1116,0,1116
+P1,1,24,3,8,32,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,1116,4,1120
+P1,1,24,3,8,32,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,1116,8,1124
+P1,1,24,3,8,32,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,1116,12,1128
+P1,1,24,3,8,32,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,1116,16,1132
+P1,1,24,3,8,32,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,1116,20,1136
+P1,1,24,3,8,32,1,75,D#/Eb6,4,4,Not applicable,Not applicable,Not applicable,1116,24,1140
+P1,1,24,3,8,32,1,69,A5,4,4,Not applicable,Not applicable,Not applicable,1116,28,1144
+P1,1,24,3,8,32,1,77,F6,4,4,Not applicable,Not applicable,Not applicable,1116,32,1148
+P1,1,24,3,8,33,1,70,A#/Bb5,12,12,Not applicable,Not applicable,Not applicable,1152,0,1152
+P1,1,24,3,8,33,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,1152,12,1164
+P1,1,24,3,8,33,1,66,F#/Gb5,12,12,Not applicable,Not applicable,Not applicable,1152,24,1176
+P1,1,24,3,8,34,1,69,A5,9,9,Not applicable,Not applicable,Not applicable,1188,0,1188
+P1,1,24,3,8,34,1,67,G5,3,3,Not applicable,Not applicable,Not applicable,1188,9,1197
+P1,1,24,3,8,34,1,65,F5,9,9,Not applicable,Not applicable,Not applicable,1188,12,1200
+P1,1,24,3,8,34,1,63,D#/Eb5,3,3,Not applicable,Not applicable,Not applicable,1188,21,1209
+P1,1,24,3,8,34,1,62,D5,9,9,Not applicable,Not applicable,Not applicable,1188,24,1212
+P1,1,24,3,8,34,1,60,C5,3,3,Not applicable,Not applicable,Not applicable,1188,33,1221
+P1,1,24,3,8,35,1,58,A#/Bb4,6,6,Not applicable,Not applicable,Not applicable,1224,0,1224
+P1,1,24,3,8,35,1,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,1224,6,1230
+P1,1,24,3,8,35,1,62,D5,12,12,Not applicable,Not applicable,Not applicable,1224,12,1236
+P1,1,24,3,8,35,1,65,F5,12,0,Not applicable,Not applicable,Is chord,1224,24,1248
+P1,1,24,3,8,35,1,70,A#/Bb5,12,0,Not applicable,Not applicable,Is chord,1224,24,1248
+P1,1,24,3,8,35,1,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,1224,24,1248
+P1,1,24,3,8,26,2,NA,Not applicable,36,36,Is rest value,Not applicable,Not applicable,900,0,900
+P1,1,24,3,8,30,2,NA,Not applicable,36,36,Is rest value,Not applicable,Not applicable,1044,0,1044
+P1,1,24,3,8,1,5,34,A#/Bb2,12,12,Not applicable,Not applicable,Not applicable,0,0,0
+P1,1,24,3,8,1,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,0,12,12
+P1,1,24,3,8,1,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,0,24,24
+P1,1,24,3,8,1,5,50,D4,12,0,Not applicable,Not applicable,Is chord,0,24,24
+P1,1,24,3,8,1,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,0,24,24
+P1,1,24,3,8,1,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,0,36,36
+P1,1,24,3,8,1,5,50,D4,12,0,Not applicable,Not applicable,Is chord,0,36,36
+P1,1,24,3,8,2,5,34,A#/Bb2,12,12,Not applicable,Not applicable,Not applicable,36,0,36
+P1,1,24,3,8,2,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,36,12,48
+P1,1,24,3,8,2,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,36,24,60
+P1,1,24,3,8,2,5,50,D4,12,0,Not applicable,Not applicable,Is chord,36,24,60
+P1,1,24,3,8,2,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,36,24,60
+P1,1,24,3,8,2,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,36,36,72
+P1,1,24,3,8,2,5,50,D4,12,0,Not applicable,Not applicable,Is chord,36,36,72
+P1,1,24,3,8,3,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,72,0,72
+P1,1,24,3,8,3,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,72,12,84
+P1,1,24,3,8,3,5,45,A3,12,0,Not applicable,Not applicable,Is chord,72,24,96
+P1,1,24,3,8,3,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,72,24,96
+P1,1,24,3,8,3,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,72,24,96
+P1,1,24,3,8,3,5,45,A3,12,0,Not applicable,Not applicable,Is chord,72,36,108
+P1,1,24,3,8,3,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,72,36,108
+P1,1,24,3,8,4,5,29,F2,12,12,Not applicable,Not applicable,Not applicable,108,0,108
+P1,1,24,3,8,4,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,108,12,120
+P1,1,24,3,8,4,5,45,A3,12,0,Not applicable,Not applicable,Is chord,108,24,132
+P1,1,24,3,8,4,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,108,24,132
+P1,1,24,3,8,4,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,108,24,132
+P1,1,24,3,8,4,5,45,A3,12,0,Not applicable,Not applicable,Is chord,108,36,144
+P1,1,24,3,8,4,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,108,36,144
+P1,1,24,3,8,5,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,144,0,144
+P1,1,24,3,8,5,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,144,12,156
+P1,1,24,3,8,5,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,144,24,168
+P1,1,24,3,8,5,5,50,D4,12,0,Not applicable,Not applicable,Is chord,144,24,168
+P1,1,24,3,8,5,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,144,24,168
+P1,1,24,3,8,5,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,144,36,180
+P1,1,24,3,8,5,5,50,D4,12,0,Not applicable,Not applicable,Is chord,144,36,180
+P1,1,24,3,8,6,5,29,F2,12,12,Not applicable,Not applicable,Not applicable,180,0,180
+P1,1,24,3,8,6,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,180,12,192
+P1,1,24,3,8,6,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,180,24,204
+P1,1,24,3,8,6,5,50,D4,12,0,Not applicable,Not applicable,Is chord,180,24,204
+P1,1,24,3,8,6,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,180,24,204
+P1,1,24,3,8,6,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,180,36,216
+P1,1,24,3,8,6,5,50,D4,12,0,Not applicable,Not applicable,Is chord,180,36,216
+P1,1,24,3,8,7,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,216,0,216
+P1,1,24,3,8,7,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,216,12,228
+P1,1,24,3,8,7,5,48,C4,12,0,Not applicable,Not applicable,Is chord,216,24,240
+P1,1,24,3,8,7,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,216,24,240
+P1,1,24,3,8,7,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,216,24,240
+P1,1,24,3,8,7,5,48,C4,12,0,Not applicable,Not applicable,Is chord,216,36,252
+P1,1,24,3,8,7,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,216,36,252
+P1,1,24,3,8,8,5,29,F2,12,12,Not applicable,Not applicable,Not applicable,252,0,252
+P1,1,24,3,8,8,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,252,12,264
+P1,1,24,3,8,8,5,48,C4,12,0,Not applicable,Not applicable,Is chord,252,24,276
+P1,1,24,3,8,8,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,252,24,276
+P1,1,24,3,8,8,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,252,24,276
+P1,1,24,3,8,8,5,48,C4,12,0,Not applicable,Not applicable,Is chord,252,36,288
+P1,1,24,3,8,8,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,252,36,288
+P1,1,24,3,8,9,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,288,0,288
+P1,1,24,3,8,9,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,288,12,300
+P1,1,24,3,8,9,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,288,24,312
+P1,1,24,3,8,9,5,50,D4,12,0,Not applicable,Not applicable,Is chord,288,24,312
+P1,1,24,3,8,9,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,288,24,312
+P1,1,24,3,8,9,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,288,36,324
+P1,1,24,3,8,9,5,50,D4,12,0,Not applicable,Not applicable,Is chord,288,36,324
+P1,1,24,3,8,10,5,34,A#/Bb2,6,6,Not applicable,Not applicable,Not applicable,324,0,324
+P1,1,24,3,8,10,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,324,6,330
+P1,1,24,3,8,10,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,324,12,336
+P1,1,24,3,8,10,5,50,D4,6,0,Not applicable,Not applicable,Is chord,324,18,342
+P1,1,24,3,8,10,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,324,18,342
+P1,1,24,3,8,10,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,324,24,348
+P1,1,24,3,8,10,5,50,D4,6,0,Not applicable,Not applicable,Is chord,324,30,354
+P1,1,24,3,8,10,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,324,30,354
+P1,1,24,3,8,11,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,360,0,360
+P1,1,24,3,8,11,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,360,6,366
+P1,1,24,3,8,11,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,360,12,372
+P1,1,24,3,8,11,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,360,18,378
+P1,1,24,3,8,11,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,360,18,378
+P1,1,24,3,8,11,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,360,24,384
+P1,1,24,3,8,11,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,360,30,390
+P1,1,24,3,8,11,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,360,30,390
+P1,1,24,3,8,12,5,29,F2,6,6,Not applicable,Not applicable,Not applicable,396,0,396
+P1,1,24,3,8,12,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,396,6,402
+P1,1,24,3,8,12,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,396,12,408
+P1,1,24,3,8,12,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,396,18,414
+P1,1,24,3,8,12,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,396,18,414
+P1,1,24,3,8,12,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,396,24,420
+P1,1,24,3,8,12,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,396,30,426
+P1,1,24,3,8,12,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,396,30,426
+P1,1,24,3,8,13,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,432,0,432
+P1,1,24,3,8,13,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,432,6,438
+P1,1,24,3,8,13,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,432,12,444
+P1,1,24,3,8,13,5,50,D4,6,0,Not applicable,Not applicable,Is chord,432,18,450
+P1,1,24,3,8,13,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,432,18,450
+P1,1,24,3,8,13,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,432,24,456
+P1,1,24,3,8,13,5,50,D4,6,0,Not applicable,Not applicable,Is chord,432,30,462
+P1,1,24,3,8,13,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,432,30,462
+P1,1,24,3,8,14,5,34,A#/Bb2,6,6,Not applicable,Not applicable,Not applicable,468,0,468
+P1,1,24,3,8,14,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,468,6,474
+P1,1,24,3,8,14,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,468,12,480
+P1,1,24,3,8,14,5,50,D4,6,0,Not applicable,Not applicable,Is chord,468,18,486
+P1,1,24,3,8,14,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,468,18,486
+P1,1,24,3,8,14,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,468,24,492
+P1,1,24,3,8,14,5,50,D4,6,0,Not applicable,Not applicable,Is chord,468,30,498
+P1,1,24,3,8,14,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,468,30,498
+P1,1,24,3,8,15,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,504,0,504
+P1,1,24,3,8,15,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,504,6,510
+P1,1,24,3,8,15,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,504,12,516
+P1,1,24,3,8,15,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,504,18,522
+P1,1,24,3,8,15,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,504,18,522
+P1,1,24,3,8,15,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,504,24,528
+P1,1,24,3,8,15,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,504,30,534
+P1,1,24,3,8,15,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,504,30,534
+P1,1,24,3,8,16,5,29,F2,6,6,Not applicable,Not applicable,Not applicable,540,0,540
+P1,1,24,3,8,16,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,540,6,546
+P1,1,24,3,8,16,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,540,12,552
+P1,1,24,3,8,16,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,540,18,558
+P1,1,24,3,8,16,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,540,18,558
+P1,1,24,3,8,16,5,45,A3,6,6,Not applicable,Not applicable,Not applicable,540,24,564
+P1,1,24,3,8,16,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,540,30,570
+P1,1,24,3,8,16,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,540,30,570
+P1,1,24,3,8,17,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,576,0,576
+P1,1,24,3,8,17,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,576,6,582
+P1,1,24,3,8,17,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,576,12,588
+P1,1,24,3,8,17,5,50,D4,6,0,Not applicable,Not applicable,Is chord,576,18,594
+P1,1,24,3,8,17,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,576,18,594
+P1,1,24,3,8,17,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,576,24,600
+P1,1,24,3,8,17,5,50,D4,6,0,Not applicable,Not applicable,Is chord,576,30,606
+P1,1,24,3,8,17,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,576,30,606
+P1,1,24,3,8,18,5,39,D#/Eb3,12,12,Not applicable,Not applicable,Not applicable,612,0,612
+P1,1,24,3,8,18,5,43,G3,12,12,Not applicable,Not applicable,Not applicable,612,12,624
+P1,1,24,3,8,18,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,612,24,636
+P1,1,24,3,8,18,5,48,C4,12,0,Not applicable,Not applicable,Is chord,612,24,636
+P1,1,24,3,8,18,5,43,G3,12,12,Not applicable,Not applicable,Not applicable,612,24,636
+P1,1,24,3,8,18,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,612,36,648
+P1,1,24,3,8,18,5,48,C4,12,0,Not applicable,Not applicable,Is chord,612,36,648
+P1,1,24,3,8,19,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,648,0,648
+P1,1,24,3,8,19,5,45,A3,12,12,Not applicable,Not applicable,Not applicable,648,12,660
+P1,1,24,3,8,19,5,48,C4,12,0,Not applicable,Not applicable,Is chord,648,24,672
+P1,1,24,3,8,19,5,45,A3,12,12,Not applicable,Not applicable,Not applicable,648,24,672
+P1,1,24,3,8,19,5,48,C4,12,0,Not applicable,Not applicable,Is chord,648,36,684
+P1,1,24,3,8,20,5,42,F#/Gb3,12,12,Not applicable,Not applicable,Not applicable,684,0,684
+P1,1,24,3,8,20,5,45,A3,12,12,Not applicable,Not applicable,Not applicable,684,12,696
+P1,1,24,3,8,20,5,48,C4,12,0,Not applicable,Not applicable,Is chord,684,24,708
+P1,1,24,3,8,20,5,50,D4,12,0,Not applicable,Not applicable,Is chord,684,24,708
+P1,1,24,3,8,20,5,45,A3,12,12,Not applicable,Not applicable,Not applicable,684,24,708
+P1,1,24,3,8,20,5,48,C4,12,0,Not applicable,Not applicable,Is chord,684,36,720
+P1,1,24,3,8,20,5,50,D4,12,0,Not applicable,Not applicable,Is chord,684,36,720
+P1,1,24,3,8,21,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,720,0,720
+P1,1,24,3,8,21,5,46,A#/Bb3,12,12,Not applicable,Not applicable,Not applicable,720,12,732
+P1,1,24,3,8,21,5,50,D4,12,0,Not applicable,Not applicable,Is chord,720,24,744
+P1,1,24,3,8,21,5,46,A#/Bb3,12,12,Not applicable,Not applicable,Not applicable,720,24,744
+P1,1,24,3,8,21,5,50,D4,12,0,Not applicable,Not applicable,Is chord,720,36,756
+P1,1,24,3,8,22,5,45,A3,12,12,Not applicable,Not applicable,Not applicable,756,0,756
+P1,1,24,3,8,22,5,48,C4,12,12,Not applicable,Not applicable,Not applicable,756,12,768
+P1,1,24,3,8,22,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,756,24,780
+P1,1,24,3,8,22,5,53,F4,12,0,Not applicable,Not applicable,Is chord,756,24,780
+P1,1,24,3,8,22,5,48,C4,12,12,Not applicable,Not applicable,Not applicable,756,24,780
+P1,1,24,3,8,22,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,756,36,792
+P1,1,24,3,8,22,5,53,F4,12,0,Not applicable,Not applicable,Is chord,756,36,792
+P1,1,24,3,8,23,5,46,A#/Bb3,36,36,Not applicable,Not applicable,Not applicable,792,0,792
+P1,1,24,3,8,23,5,50,D4,36,0,Not applicable,Not applicable,Is chord,792,36,828
+P1,1,24,3,8,24,5,39,D#/Eb3,6,6,Not applicable,Not applicable,Not applicable,828,0,828
+P1,1,24,3,8,24,5,43,G3,6,0,Not applicable,Not applicable,Is chord,828,6,834
+P1,1,24,3,8,24,5,48,C4,6,0,Not applicable,Not applicable,Is chord,828,6,834
+P1,1,24,3,8,24,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,828,6,834
+P1,1,24,3,8,24,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,828,12,840
+P1,1,24,3,8,24,5,46,A#/Bb3,6,0,Not applicable,Not applicable,Is chord,828,18,846
+P1,1,24,3,8,24,5,50,D4,6,0,Not applicable,Not applicable,Is chord,828,18,846
+P1,1,24,3,8,24,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,828,18,846
+P1,1,24,3,8,24,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,828,24,852
+P1,1,24,3,8,24,5,45,A3,6,0,Not applicable,Not applicable,Is chord,828,30,858
+P1,1,24,3,8,24,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,828,30,858
+P1,1,24,3,8,24,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,828,30,858
+P1,1,24,3,8,25,5,46,A#/Bb3,12,12,Not applicable,Not applicable,Not applicable,864,0,864
+P1,1,24,3,8,25,5,50,D4,12,0,Not applicable,Not applicable,Is chord,864,12,876
+P1,1,24,3,8,25,5,46,A#/Bb3,12,12,Not applicable,Not applicable,Not applicable,864,12,876
+P1,1,24,3,8,25,5,50,D4,12,0,Not applicable,Not applicable,Is chord,864,24,888
+P1,1,24,3,8,25,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,864,24,888
+P1,1,24,3,8,26,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,900,0,900
+P1,1,24,3,8,26,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,900,12,912
+P1,1,24,3,8,26,5,45,A3,12,0,Not applicable,Not applicable,Is chord,900,24,924
+P1,1,24,3,8,26,5,48,C4,12,0,Not applicable,Not applicable,Is chord,900,24,924
+P1,1,24,3,8,26,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,900,24,924
+P1,1,24,3,8,27,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,936,0,936
+P1,1,24,3,8,27,5,46,A#/Bb3,12,12,Not applicable,Not applicable,Not applicable,936,12,948
+P1,1,24,3,8,27,5,50,D4,12,0,Not applicable,Not applicable,Is chord,936,24,960
+P1,1,24,3,8,27,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,936,24,960
+P1,1,24,3,8,28,5,39,D#/Eb3,6,6,Not applicable,Not applicable,Not applicable,972,0,972
+P1,1,24,3,8,28,5,43,G3,6,0,Not applicable,Not applicable,Is chord,972,6,978
+P1,1,24,3,8,28,5,48,C4,6,0,Not applicable,Not applicable,Is chord,972,6,978
+P1,1,24,3,8,28,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,972,6,978
+P1,1,24,3,8,28,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,972,12,984
+P1,1,24,3,8,28,5,46,A#/Bb3,6,0,Not applicable,Not applicable,Is chord,972,18,990
+P1,1,24,3,8,28,5,50,D4,6,0,Not applicable,Not applicable,Is chord,972,18,990
+P1,1,24,3,8,28,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,972,18,990
+P1,1,24,3,8,28,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,972,24,996
+P1,1,24,3,8,28,5,45,A3,6,0,Not applicable,Not applicable,Is chord,972,30,1002
+P1,1,24,3,8,28,5,51,D#/Eb4,6,0,Not applicable,Not applicable,Is chord,972,30,1002
+P1,1,24,3,8,28,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,972,30,1002
+P1,1,24,3,8,29,5,34,A#/Bb2,6,6,Not applicable,Not applicable,Not applicable,1008,0,1008
+P1,1,24,3,8,29,5,41,F3,6,6,Not applicable,Not applicable,Not applicable,1008,6,1014
+P1,1,24,3,8,29,5,46,A#/Bb3,6,0,Not applicable,Not applicable,Is chord,1008,12,1020
+P1,1,24,3,8,29,5,50,D4,6,0,Not applicable,Not applicable,Is chord,1008,12,1020
+P1,1,24,3,8,29,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1008,12,1020
+P1,1,24,3,8,29,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,1008,24,1032
+P1,1,24,3,8,29,5,50,D4,12,0,Not applicable,Not applicable,Is chord,1008,24,1032
+P1,1,24,3,8,29,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1008,24,1032
+P1,1,24,3,8,29,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,1008,36,1044
+P1,1,24,3,8,29,5,50,D4,12,0,Not applicable,Not applicable,Is chord,1008,36,1044
+P1,1,24,3,8,30,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,1044,0,1044
+P1,1,24,3,8,30,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1044,12,1056
+P1,1,24,3,8,30,5,45,A3,12,0,Not applicable,Not applicable,Is chord,1044,24,1068
+P1,1,24,3,8,30,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,1044,24,1068
+P1,1,24,3,8,30,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1044,24,1068
+P1,1,24,3,8,30,5,45,A3,12,0,Not applicable,Not applicable,Is chord,1044,36,1080
+P1,1,24,3,8,30,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,1044,36,1080
+P1,1,24,3,8,31,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,1080,0,1080
+P1,1,24,3,8,31,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1080,12,1092
+P1,1,24,3,8,31,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,1080,24,1104
+P1,1,24,3,8,31,5,50,D4,12,0,Not applicable,Not applicable,Is chord,1080,24,1104
+P1,1,24,3,8,31,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1080,24,1104
+P1,1,24,3,8,31,5,46,A#/Bb3,12,0,Not applicable,Not applicable,Is chord,1080,36,1116
+P1,1,24,3,8,31,5,50,D4,12,0,Not applicable,Not applicable,Is chord,1080,36,1116
+P1,1,24,3,8,32,5,29,F2,12,12,Not applicable,Not applicable,Not applicable,1116,0,1116
+P1,1,24,3,8,32,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1116,12,1128
+P1,1,24,3,8,32,5,48,C4,12,0,Not applicable,Not applicable,Is chord,1116,24,1140
+P1,1,24,3,8,32,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,1116,24,1140
+P1,1,24,3,8,32,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1116,24,1140
+P1,1,24,3,8,32,5,48,C4,12,0,Not applicable,Not applicable,Is chord,1116,36,1152
+P1,1,24,3,8,32,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,1116,36,1152
+P1,1,24,3,8,33,5,46,A#/Bb3,12,12,Not applicable,Not applicable,Not applicable,1152,0,1152
+P1,1,24,3,8,33,5,50,D4,12,0,Not applicable,Not applicable,Is chord,1152,12,1164
+P1,1,24,3,8,33,5,NA,Not applicable,24,24,Is rest value,Not applicable,Not applicable,1152,12,1164
+P1,1,24,3,8,34,5,NA,Not applicable,24,24,Is rest value,Not applicable,Not applicable,1188,0,1188
+P1,1,24,3,8,34,5,41,F3,12,12,Not applicable,Not applicable,Not applicable,1188,24,1212
+P1,1,24,3,8,34,5,45,A3,12,0,Not applicable,Not applicable,Is chord,1188,36,1224
+P1,1,24,3,8,34,5,51,D#/Eb4,12,0,Not applicable,Not applicable,Is chord,1188,36,1224
+P1,1,24,3,8,35,5,46,A#/Bb3,6,6,Not applicable,Not applicable,Not applicable,1224,0,1224
+P1,1,24,3,8,35,5,50,D4,6,0,Not applicable,Not applicable,Is chord,1224,6,1230
+P1,1,24,3,8,35,5,NA,Not applicable,6,6,Is rest value,Not applicable,Not applicable,1224,6,1230
+P1,1,24,3,8,35,5,34,A#/Bb2,12,12,Not applicable,Not applicable,Not applicable,1224,12,1236
+P1,1,24,3,8,35,5,38,D3,12,0,Not applicable,Not applicable,Is chord,1224,24,1248
+P1,1,24,3,8,35,5,41,F3,12,0,Not applicable,Not applicable,Is chord,1224,24,1248
+P1,1,24,3,8,35,5,NA,Not applicable,12,12,Is rest value,Not applicable,Not applicable,1224,24,1248
+P1,1,24,3,8,3,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,72,0,72
+P1,1,24,3,8,5,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,144,0,144
+P1,1,24,3,8,7,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,216,0,216
+P1,1,24,3,8,9,6,34,A#/Bb2,36,36,Not applicable,Not applicable,Not applicable,288,0,288
+P1,1,24,3,8,11,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,360,0,360
+P1,1,24,3,8,13,6,34,A#/Bb2,36,36,Not applicable,Not applicable,Not applicable,432,0,432
+P1,1,24,3,8,15,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,504,0,504
+P1,1,24,3,8,17,6,34,A#/Bb2,36,36,Not applicable,Not applicable,Not applicable,576,0,576
+P1,1,24,3,8,19,6,41,F3,36,36,Not applicable,Not applicable,Not applicable,648,0,648
+P1,1,24,3,8,21,6,43,G3,36,36,Not applicable,Not applicable,Not applicable,720,0,720
+P1,1,24,3,8,26,6,41,F3,36,36,Not applicable,Not applicable,Not applicable,900,0,900
+P1,1,24,3,8,26,6,45,A3,36,0,Not applicable,Not applicable,Is chord,900,36,936
+P1,1,24,3,8,26,6,48,C4,36,0,Not applicable,Not applicable,Is chord,900,36,936
+P1,1,24,3,8,27,6,46,A#/Bb3,36,36,Not applicable,Not applicable,Not applicable,936,0,936
+P1,1,24,3,8,27,6,50,D4,36,0,Not applicable,Not applicable,Is chord,936,36,972
+P1,1,24,3,8,30,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,1044,0,1044
+P1,1,24,3,8,31,6,29,F2,36,36,Not applicable,Not applicable,Not applicable,1080,0,1080
+P1,1,24,3,8,34,6,39,D#/Eb3,36,36,Not applicable,Not applicable,Not applicable,1188,0,1188
+P1,1,24,3,8,34,6,43,G3,36,0,Not applicable,Not applicable,Is chord,1188,36,1224
+P1,1,24,3,8,34,6,48,C4,36,0,Not applicable,Not applicable,Is chord,1188,36,1224

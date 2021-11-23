@@ -1,0 +1,66 @@
+{% extends "main/base.html" %}
+{% load static %}
+{% block submit_base %}
+
+<div class = "row">
+</div>
+<div class="row">
+  <div class="col m3 s3">
+    <ul class="collection">
+      {% if request.path == '/submit-musician-data' %}
+         <a href="/submit-musician-data"><li class="collection-item active  #1565c0 blue darken-3">&emsp; Musicians</li></a>
+      {% else %}
+         <a href="/submit-musician-data"><li class="collection-item">&emsp; Musicians</li></a>
+      {% endif %}
+
+      {% if request.path == '/submit-work-data' %}
+      <a href="/submit-work-data"><li class="collection-item active  #1565c0 blue darken-3">&emsp; Works and collections</li></a>
+      {% else %}
+      <a href="/submit-work-data"><li class="collection-item">&emsp; Works and collections</li></a>
+      {% endif %}
+      {% if request.path == '/submit-performance-data' %}
+      <a href="/submit-performance-data"><li class="collection-item active  #1565c0 blue darken-3">&emsp; Performances</li></a>
+      {% else %}
+      <a href="/submit-performance-data"><li class="collection-item">&emsp; Performances</li></a>
+      {% endif %}
+      {% if request.path == '/submit-instrument-data' %}
+      <a href="/submit-instrument-data"><li class="collection-item active  #1565c0 blue darken-3">&emsp; Instruments</li></a>
+      {% else %}
+      <a href="/submit-instrument-data"><li class="collection-item">&emsp; Instruments</li></a>
+      {% endif %}
+
+      {% if request.path == '/submit-file' %}
+      <a href="/submit-file"><li class="collection-item active  #1565c0 blue darken-3">&emsp; Submit data</li></a>
+      {% else %}
+      <a href="/submit-file"><li class="collection-item">&emsp;Submit data</li></a>
+      {% endif %}
+       </ul>
+       <div class = "row">
+        <div class = "col s12 m12">
+        {% block submit_data_filter %}
+        {% endblock %}
+        </div>
+
+
+      </div>
+  </div>
+  <div class = "col s9 m9">
+    {% block submit_musician_data %}
+    {% endblock %}
+    {% block submit_collection_data %}
+    {% endblock %}
+    {% block submit_work_data %}
+    {% endblock %}
+    {% block submit_performance_data %}
+    {% endblock %}
+    {% block submit_instrument_data %}
+    {% endblock %}
+    {% block submit_note_data %}
+    {% endblock %}
+    {% block submit_text_data %}
+    {% endblock %}
+    {% block submit_file %}
+    {% endblock %}
+  </div>
+</div>
+{% endblock %}

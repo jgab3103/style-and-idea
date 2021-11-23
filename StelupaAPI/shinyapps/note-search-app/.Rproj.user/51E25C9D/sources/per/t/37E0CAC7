@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572727113122.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2593151054",
+    "id" : "37E0CAC7",
+    "lastKnownWriteTime" : 1569656487,
+    "last_content_update" : 1569656487,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/note-search-app/components/pianoroll/create_keyboard.js",
+    "project_path" : "components/pianoroll/create_keyboard.js",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "js"
+}

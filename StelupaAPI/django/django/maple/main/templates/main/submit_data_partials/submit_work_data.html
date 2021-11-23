@@ -1,0 +1,85 @@
+{% extends "main/submit_data_partials/submit_data_base.html" %}
+{% load static %}
+
+{% block submit_data_filter %}
+  {% include "main/submit_data_partials/submit_data_filter.html" %}
+{% endblock %}
+  {% block submit_collection_data %}
+
+  {% include "main/submit_data_partials/submit_data_paginator.html" %}
+  <ul class="collapsible" data-collapsible="accordion">
+    {% for record in paginated_records %}
+      <li>
+        <div class="collapsible-header">
+          <div class = "col s6 m6">
+
+              {{ record.title_in_original_language}}<br/>
+              ({{ record.title }})
+            </div>
+            <div class = "col s6 m6">
+                Composed by {{ record.created_by.first_name }} {{ record.created_by.family_name }}<br/>
+                {{ record.collection.title }}
+              </div>
+
+        </div>
+        <div class="collapsible-body">
+          <div class = "row">
+            <div class = "col s12 m12">
+              <strong class="thin">Record detail:</strong> <br/>
+            </div>
+          </div>
+          <div class = "row">
+            <div class = "col s6 m6">
+              <strong>Title</strong><br/>
+              <strong>Title in original language</strong><br/>
+              <strong>Created by: </strong><br/>
+              <strong>Record collection:</strong><br/>
+              <strong>Order in collection:</strong> <br/>
+              <strong>Identifying code (i.e. BWV or Opus No.):</strong> <br/>
+              <strong>Publication date is approximate:</strong> <br/>
+              <strong>Work start date is approximate:</strong> <br/>
+              <strong>Work end date is approximate:</strong> <br/>
+              <strong>Publication date:</strong> <br/>
+              <strong>Date work on composition started:</strong> <br/>
+              <strong>Date work on composition ended:</strong> <br/>
+              <strong>Location where work was created:</strong><br/>
+              <strong>Location where work was created (decimal latitude):</strong><br/>
+              <strong>Location where work was created (decimal longitude):</strong><br/>
+              <strong>Genre:</strong><br/>
+              <strong>Tonality stated at beginning of work:</strong><br/>
+              <strong>Instrumentation summary:</strong><br/>
+              <strong>Tempo remains constant throughout work:</strong><br/>
+             <strong>Score is available:</strong><br/>
+             <strong>Notes: </strong><br/>
+            </div>
+            <div class = "col s6 m6">
+              {{ record.title}} <br/>
+              {{ record.title_in_original_language}}<br/>
+              {{ record.created_by.first_name}} {{ record.created_by.family_name}}<br/>
+              {{ record.collection }}<br/>
+              {{ record.order_in_collection }}<br/>
+              {{ record.identifying_code}}<br/>
+              {{ record.publication_date_is_approximate }} <br/>
+              {{ record.composed_start_date_is_approximate }}<br/>
+              {{ record.composed_end_date_is_approximate }}<br/>
+              {{ record.publication_date}}<br/>
+              {{ record.composed_start_date}}<br/>
+              {{ record.composed_end_date}} ebd <br/>
+              {{ record.creation_location}}<br/>
+              {{ record.creation_location_latitude}}<br/>
+              {{ record.creation_location_longitude}}<br/>
+              {{ record.genre}}<br/>
+              {{ record.tonality}} <br/>
+              {{ record.instrumentation_summary}} <br/>
+              {{ record.tempo_remains_constant}} <br/>
+              {{ record.score_available}} <br/>
+              {{ record.notes}} <br/>
+            </div>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  {% endblock %}

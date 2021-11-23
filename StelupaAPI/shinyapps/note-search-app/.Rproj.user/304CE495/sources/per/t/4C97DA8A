@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592789648401.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3445141951",
+    "id" : "4C97DA8A",
+    "lastKnownWriteTime" : 1580448396,
+    "last_content_update" : 1580448396,
+    "path" : "C:/JamiesFiles/DjangoProjects/StelupaProject/StelupaServer/shinyapps/note-search-app/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "172,0",
+        "scrollLine" : "163"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572998339046.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "957600636",
+    "id" : "C58FDA7",
+    "lastKnownWriteTime" : 1573019282,
+    "last_content_update" : 1573019282628,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/melodic-sequence-app/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "51,37",
+        "scrollLine" : "46",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

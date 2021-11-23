@@ -1,0 +1,49 @@
+<br/>
+<strong id="instrument">Data specification::instrument</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/scores-api/v1/instruments/">stelupa/scores-api/v1/instruments/</a>
+</div><br/>
+<div>
+  The instrument API endpoint has data about the names and families of instruments. Attributes include:
+</div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>name</td>
+    <td>varchar</td>
+    <td>Name of instrument (e.g. viola). Note that this data entity can be also used to capture combinations of instruments (e.g. piano,violin). Instruments will always be lower case, and if alphabetical order if appearing as a group. Attributes include:</td>
+  </tr>
+  <tr>
+    <td>family</td>
+    <td>varchar</td>
+    <td>Instrument family to which instrument belongs (e.g. strings). If this is an instrumental combination, family terms that appear to all instruments will appear, in alphabetical order.</td>
+  </tr>
+  <tr>
+    <td>patch</td>
+    <td>varchar</td>
+    <td>For synthesised instruments only, to denote a particular synth sound.</td>
+  </tr>
+  <tr>
+    <td>is_grouping</td>
+    <td>boolean</td>
+    <td>True if this refers to a grouping of instruments. </td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if this record has been verified.</td>
+  </tr>
+  </tbody>
+  </table>
+
+
+<br/>

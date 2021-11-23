@@ -1,0 +1,102 @@
+{% extends "main/base.html" %}
+{% load static %}
+
+{% block about_page %}
+
+<div>
+  <div class="row">
+    <div class = "col s1 m1">
+
+    </div>
+    <div class = "col s10 m10">
+      <h5>Digital Musicology Data API</h5>
+    </div>
+
+  </div>
+  <div class = "row">
+    <div class = "col m1 s1"></div>
+    <div class = "col m7 s7">
+
+
+      <div class="thin">
+        Stelupa is a digital humanities for the application of statistical and machine learning methods to  project reposit of music data engineering, designed to be well suited to tasks involving musicology, music historiography, and music analysis and theory and applying music data to machine learning methods. It aims to be flexible and scalable to the varying needs of musicians, academics, data scientists to explore symbolic music data in different ways. Time series analysis, mathematical. THis site also holds data engineering, 
+      </div>
+      <br/>
+      <br/>
+      <div class = "thin">
+As a digital humanities projects, provide resources, for humanties based projects statistics and machine learning to music data 
+      </div>
+      <br/>
+
+      <h6>Search engine: a music score search engine built using the Stelupa Data API</h6>
+      <div class="thin">
+        The <a href="#">Search engine</a> is an example of an application that can be built using the Stelupa Data API. Scora allows users to search complex search music scores across a wide range of criteria <img class = "front-page-image" src="{% static 'main/img/Screenshot.png' %}" alt="No image available" /> including title, composer, tempo and year range, the appearance of different musical phrases, rhythmic patterns, and harmonic structures. Fuzzy searching for specific structures is also supported. The application also supports the use of query language that allows searching foor melodic and rhythmic phrases. Scora also utilises public domain recordings with audio synced to all symbolic score search paramters. The application Stelupa uses howler.js and tone.js to facilitate a basic synth for excerpt playback.  Any text informaiton written on the score (such as performance markings, dynamics, or lyrics) can also be searched, and the application supports bookmarking of application state, so search paramaters can be captured in a url, and provided to other users.
+      </div>
+      <br/>
+      <h6>Extending questions of musicology and musical historiogaphy</h6>
+      <div class="thin">
+        The Stelupa Data API aims to provide a grounding framework from which to pose context driven queries that often arise in musicology. This includes geographical information about <img class = "front-page-image-2" src="{% static 'main/img/map.png' %}" alt="Hi!" /> works and composers to allow the linking of appearances of music structures to questions of historigraphy and demographics.  Otehr applications include the mapping of taxomonies of text found in different scores. The history of music analysis is complicated, and heavy arbitrary, difficult to reconcile, to be able, drive data, or to anlaytical situation, to map works to different treatises (e.g. to map Bach Chorals to work of Fux explicitly, or Piston's Ochestral combinations or Rimsky Korsakov). Music is complicated by the appearance of composers who do not create tensions between accepted practice and innovation.
+      </div>
+
+      <br/>
+      <h6>Building learning and teaching resources for Machine learning methods</h6>
+      <div class="thin">
+        Stelupa was orginally created to address issues of learning and teaching in music, which can be seen as predominantly an information retrieval problem for teachers. To effectively teach subjects such as harmony, counterpoint and orchestration, finding examples which fit and do not fit. <img class = "front-page-image-3" src="{% static 'main/img/sunburst.png' %}" alt="No image available" />It is always How to voice a chord in the context, how, correct is Rimsky Kosokov? There are similair issues in jazz.  Keith Jarrett play a major seventh when dominant chord, and how does this change depending on tempo and context. Music theory, things that tend to happen in music, often where composers have chosen, ,Tone.js Currently eight synth voices are available and synth type, effect type and volume and can be adjusted. Effects chaining and isolating specific score instruments in coming. Aim to be able to search scores, museopen. Also to explore different visualisations of music. Music is difficult by its own data visualisation, multiple clefs, difficult to read, being designed for specific purpose of musicians needing to perform. Alternate visualisations, to understand the aggregate use of melody Also to explore different visualisations of music. Music is difficult by its own data visualisation, multiple clefs, difficult to read, being designed for specific purpose of musicians needing to perform. Alternate visualisations, to understand the aggregate use of melody Also to explore different visualisations of music. Music is difficult by its own data visualisation, multiple clefs, difficult to read, being designed for specific purpose of musicians needing to perform. Alternate visualisations, to understand the aggregate use of melody
+      </div>
+      <br/>
+      <h6>Crowd sourcing music theory</h6>
+      <div class="thin">
+        Stelupa Data API is not designed to provide a basis for music theory, but a basis on which different music theories can be built. Music theory and analysis, the history music theory, move towards building quantitative information similiar  breadth hallenge, in breath of music theory and musicology, and creating scope and context idea, music is different meaning, to provide interactive platforms, theory to be crowd sourced, building interactive appliations...of the cnetral ideas that is music theory is crowd sourced. For example, it is unusual to find a jazz improvision, but  . Breadth of musicology, music semiotics, realisation, and aims to place to allow the user to be placed in the middle of this, user (Downie, et. al) Stelupa uses recommender system style anomoly detection to find marginal use cases in any selection of music.
+      </div>
+      <br/>
+      <h6>Analytics</h6>
+      <div class="thin">
+        Symbolic music notation, as a metadata of music, in that it is complete. It provides a simple way to access. Stelupa was originally created to explore the applications of machine learning to problems, genre classification, but to able to link this back to scores, link between musical expertise. data engineering needed to undertake, reinforcement and deep learning algorisms, where value and reward propositions are in flux, powerful.
+      </div>
+
+    </div>
+    <div class = "col m3 s3">
+
+      <ul class="collection with-header">
+        <li class="collection-header"><h4>News</h4></li>
+        {% for item in news_items %}
+        <li class="collection-item">
+          <a href="/cida/news/{{ item.id }}/">{{item.date_added}}<br/>{{ item.news_text |  truncatewords:"10" }}
+          </a>
+        </li>
+
+        {% endfor %}
+      </ul>
+
+    </div>
+
+
+
+  </div>
+  <footer class="page-footer #1565c0 blue darken-3">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <p class="grey-text text-lighten-4">Stelupa was developed as a fork of the <a href="#">Maple</a> project, Python / Django APi with R Shiny front end, swap in react, and is maintained developed by research coop at LaData Vita</p>
+        </div>
+        <div class="col l4 offset-l2 s12">
+          <h5 class="white-text">Related links</h5>
+          <ul>
+            <li><a class="grey-text text-lighten-3" href="#!"><strong>La data vita</strong></a></li>
+            <li><a class="grey-text text-lighten-3" href="#!"><strong>Maple Metadata Project Wiki</strong></a></li>
+            <li><a class="grey-text text-lighten-3" href="/admin"><strong>Site Admin</strong></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+
+
+      </div>
+    </div>
+  </footer>
+
+
+
+  {% endblock %}

@@ -1,0 +1,145 @@
+<br/>
+<strong id="work">Data specification::work</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/scores-api/v1/works/">stelupa/scores-api/v1/works/</a>
+</div><br/>
+<div>
+  The work (being particular compositions or performances) API endpoint has data about works of composers and performers. Attributes include:</div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>collection</td>
+    <td>integer</td>
+    <td>Primary key of related <a href="#">collection</a>. Null if not applicable.</td>
+  </tr>
+  <tr>
+    <td>order_in_collection</td>
+    <td>integer</td>
+    <td>Integer denoting order work appears in collection. Null if not applicable.</td>
+  </tr>
+  <tr>
+    <td>best_known_title</td>
+    <td>varchar</td>
+    <td>Title is generally very problematic to deal from a data standpoint. Some works will have well known titles that they are abbreviations, or idiomatic in some way, or specific to different languages.  analytics is usually note included in this.</td>
+  </tr>
+  <tr>
+    <td>title_in_english</td>
+    <td>varchar</td>
+    <td>A verbatim translation to an english title.</td>
+  </tr>
+  <tr>
+    <td>title_in_original_language</td>
+    <td>varchar</td>
+    <td>Title used by the composer of performer.</td>
+  </tr>
+  <tr>
+    <td>identifying_code</td>
+    <td>varchar</td>
+    <td>Any specific identiying codes used to catalog the work (e.g a BWV number).</td>
+  </tr>
+  <tr>
+    <td>created_by</td>
+    <td>integer</td>
+    <td>Primary key of related <a href="#">musician</a>.</td>
+  </tr>
+  <tr>
+    <td>publication_date_is_approximate</td>
+    <td>boolean</td>
+    <td>True if publication date is approximate.</td>
+  </tr>
+  <tr>
+    <td>composed_start_date_is_approximate</td>
+    <td>boolean</td>
+    <td>True if start date of composition is approximate.</td>
+  </tr>
+  <tr>
+    <td>composed_end_date_is_approximate</td>
+    <td>boolean</td>
+    <td>True if end date of composition is approximate.</td>
+  </tr>
+  <tr>
+    <td>publication_date</td>
+    <td>date</td>
+    <td>Date compositioni published (or released if recording).</td>
+  </tr>
+  <tr>
+    <td>composed_start_date</td>
+    <td>date</td>
+    <td>Date composition started.</td>
+  </tr>
+  <tr>
+    <td>composed_end_date</td>
+    <td>date</td>
+    <td>Date work on composition ended.</td>
+  </tr>
+  <tr>
+    <td>creation_location</td>
+    <td>varchar</td>
+    <td>Location where compostion was predominantly created.</td>
+  </tr>
+  <tr>
+    <td>creation_location_latitude</td>
+    <td>float</td>
+    <td>Decimal latitutde where composition was predominantly created.</td>
+  </tr>
+  <tr>
+    <td>creation_location_longitude</td>
+    <td>float</td>
+    <td>Decimal longitude where composition was predominantly created.</td>
+  </tr>
+  <tr>
+    <td>genre</td>
+    <td>varchar</td>
+    <td>General category of genre.</td>
+  </tr>
+  <tr>
+    <td>notes</td>
+    <td>text</td>
+    <td>Free text about work</td>
+  </tr>
+  <tr>
+    <td>tonality</td>
+    <td>varchar</td>
+    <td>Starting tonality of work. Null if not applicable.</td>
+  </tr>
+  <tr>
+    <td>instrumentation_summary</td>
+    <td>varchar</td>
+    <td>Summary of instrumental grouping used in work.</td>
+  </tr>
+  <tr>
+    <td>type_of_work</td>
+    <td>varchar</td>
+    <td>Category of work type (e.g. chamber, symphony, etc.).</td>
+  </tr>
+  <tr>
+    <td>tempo_remains_constant</td>
+    <td>boolean</td>
+    <td>True if tempo does not change throughout the duration of the work.</td>
+  </tr>
+  <tr>
+    <td>score_available</td>
+    <td>boolean</td>
+    <td>True if score avaialble via <a href="#">score explorer</a> app.</td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if record has been verified.</td>
+  </tr>
+
+
+  </tbody>
+  </table>
+
+
+<br/>

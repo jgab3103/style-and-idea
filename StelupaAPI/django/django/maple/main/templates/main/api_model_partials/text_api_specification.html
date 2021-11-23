@@ -1,0 +1,44 @@
+<br/>
+<strong is="text">Data specification::text</strong>
+<hr/>
+<div>
+  API endpoint: <a href="/scores-api/v1/text/">stelupa/scores-api/v1/text/</a>
+</div><br/>
+<div>
+  The text API endpoint has data regarding text that appears on the score. This will apply both to directions placed on the score (i.e. dynamics markings), instrument specific directions (i.e. con sordino) and lyrics. All text information is linked to a note or rest to allow it to have a specific timepoint. Attributes include:</div>
+<table>
+<thead>
+  <tr>
+      <th class="thin">Attribute name</th>
+      <th class="thin">Data type</th>
+      <th class="thin">Description</th>
+  </tr>
+</thead>
+
+<tbody>
+  <tr>
+    <td>note</td>
+    <td>integer</td>
+    <td>Primary key of related <a href="#">note or rest</a>.</td>
+  </tr>
+  <tr>
+    <td>language</td>
+    <td>varchar</td>
+    <td>Language that text is written in.</td>
+  </tr>
+  <tr>
+    <td>content</td>
+    <td>varchar</td>
+    <td>Content of the text.</td>
+  </tr>
+  <tr>
+    <td>verified</td>
+    <td>boolean</td>
+    <td>True if record has been verified.</td>
+  </tr>
+
+  </tbody>
+  </table>
+
+
+<br/>

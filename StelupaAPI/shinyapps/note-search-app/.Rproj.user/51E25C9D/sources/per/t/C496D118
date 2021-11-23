@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572726398809.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1045588395",
+    "id" : "C496D118",
+    "lastKnownWriteTime" : 1572747829,
+    "last_content_update" : 1572747829287,
+    "path" : "C:/JamiesFiles/Projects/StelupaProject/StelupaServer/shinyapps/note-search-app/components/pianoroll/render_notes2.js",
+    "project_path" : "components/pianoroll/render_notes2.js",
+    "properties" : {
+        "cursorPosition" : "316,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "js"
+}

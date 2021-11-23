@@ -1,0 +1,129 @@
+div.tooltip {
+  position: absolute;
+  text-align: left;
+  width: 80px;
+  padding: 3px;
+  font: 12px sans-serif;
+  background: black;
+  color: white;
+  border: 0;
+
+  pointer-events: none;
+}
+
+
+.fix {
+
+  position: absolute; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.line {
+     border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+.blah {
+
+	height: 620px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+	
+  
+}
+
+
+.results {
+	height: 620px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+	
+  
+}
+
+
+.scroll-fix {
+	height: 350px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+  
+}
+
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+h1 {
+    font-family: "Courier";
+    font-weight: 500;
+    line-height: 1.1;
+    color: #48ca3b;
+  }
+
+.page-classs {
+  background-color: #625C58;
+}
+
+.subtext {
+  color: #696969;
+  font-weight: bold;
+  opacity: 0.5;
+}
+
+.whiteBackground {
+  background-color: #FFFFFF;
+  padding: 10px;
+  margin-bottom: 3px;
+}
+
+.titleBar {
+  background-color: #7B1FA2;
+  color: white;
+  
+}
+
+.titleBarText {
+  margin-left: 30px;
+}
+
+.graphBorder {
+  border: 1px solid #D3D3D3;
+  
+}
+
+.graphTitle {
+  margin-top: 10px;
+}
+
+.text {
+  font: 10px sans-serif;
+}
+
+
